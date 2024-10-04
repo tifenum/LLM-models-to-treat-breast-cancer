@@ -1,0 +1,11 @@
+Case,Model Name,Treatment
+Case 1,LLama3,"4 cycles d'Avastin 15 mg/kg + Xeloda 800 mg/m2 + Cisplatin 60 mg/m2. Suite à une seconde biopsie pulmonaire, le patient est mis sur un traitement de 3ème ligne : Avastin 15 mg/kg + Xeloda 800 mg/m2 + Cisplatin 60 mg/m2 + Cetuximab 500 mg/m2. Suite à une nouvelle biopsie pulmonaire"
+Case 1,Llama3 après modification,"Afatinib 20mg PO daily - Line 2: Nivolumab 3mg/kg IV every 2 weeks - Line 3: Axitinib 5mg PO twice daily - Line 4: Crizotinib 250mg PO twice daily - Line 5: Atezolizumab 840mg IV every 3 weeks - Line 6: Atezolizumab 840mg IV every 3 weeks, Carboplatin AUC 5 IV day 1, Etoposide 100mg/m2 IV days 1"
+Case 2,LLama3,Le patient peut bénéficier d'un traitement en première ligne avec un traitement par immunothérapie anti PD1 ou anti PD L1
+Case 2,Llama3 après modification,Nivolumab + Ipilimumab
+Case 3,LLama3,une deuxieme ligne de chimiothérapie par taxotere et pertuzumab mais elle est progressee au niveau cerebral et au niveau des ganglions axillaires.
+Case 3,Llama3 après modification,"Nivolumab: 3 mg/kg, every 14 days - Ipilimumab: 3 mg/kg, every 21 days"
+Case 4,LLama3,Il a été traité par radiothérapie externe (RT) à la dose de 50 Gy (RT50) et 1 an après la RT il a eu une recidive locoregionale. La radiochirurgie externe (RT50+RCH) a été réalisée sur le site de la recidive. L'objet de cette étude est de déterminer si la radiochirurgie externe est plus efficace que la radiothérapie externe seule dans le traitement
+Case 4,Llama3 après modification,Surgery + Radiotherapy + Chemotherapy - Surgery: Removal of the tumor and surrounding tissue - Radiotherapy: Use of high-energy radiation to kill cancer cells - Chemotherapy: Use of drugs to kill cancer cells - Recovery Time: 6 months
+Case 5,LLama3,"Les mutations dans le cancer sont des altérations du génome qui peuvent conduire à l'apparition d'une tumeur. Les mutations sont dites somatiques si elles sont présentes dans le tissu tumoral mais pas dans les cellules saines environnantes, ou si elles sont présentes dans les cellules saines environnantes mais pas dans les cellules tumorales. Elles sont dites germinales si elles sont présentes dans les cellules"
+Case 5,Llama3 après modification,FOLFIRI+bevacizumab

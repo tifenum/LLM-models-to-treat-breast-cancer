@@ -1,0 +1,512 @@
+{
+    "Patients with newly diagnosed or recurrent MBC": {
+        "nodes": {
+            "A": "Patients with newly diagnosed or recurrent MBC",
+            "B": "Biopsy of metastatic lesion to confirm diagnosis",
+            "C": "Reassess biomarkers ER, PgR, HER2*",
+            "G": "PD-L1 by IHC, gBRCAm, HER2-low by IHC/ISH (PALB2 assessment optional)",
+            "H": "PIK3CA mutation status, gBRCAm, HER2-low by IHC/ISH (PALB2 assessment optional)",
+            "I": "Assessments only where corresponding therapies are available: MSI, TMB, NTRK",
+            "J": "Optional assessments with potential to guide treatment: ESR1 (in ER+, HER2- tumours if further AI-based therapy is considered), somatic BRCA mutations, HER2-low status by IHC/ISH",
+            "K": "Staging: History and physical examination..."
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("B", "C", ""),
+            ("C", "G", "If TNBC"),
+            ("C", "H", "If ER+, HER2-"),
+            ("C", "I", "All patients"),
+            ("I", "J", "All patients"),
+            ("J", "K", "All patients"),
+            ("G", "I", ""),
+            ("H", "I", "")
+        ]
+    },
+    "MANAGEMENT OF ER-POSITIVE, HER2-NEGATIVE MBC":{
+        "nodes": {
+            "A": "Patients with ER+, HER2- MBC",
+            "B": "ET-CDK4/6 inhibitor",
+            "C": "ChT",
+            "D": "PD",
+            "E": "If HER2-low:\nTrastuzumab deruxtecans",
+            "F": "Somatic mutation testing\n(tissue or liquid\nGermline BRCA1/2 testing + PALB2",
+            "I": "No imminent organ failure\nand long PFS on prior ET",
+            "J": "Imminent organ fallure or short\nPFS on endocrine-based therapy",
+            "K": "Everolimus-exemestane,Everolimus-fulvestrant,Switch ET # CDK4/6 inhibitor,Fulvestrant monotherapy",
+            "L": "If PIK3CAm,Fulvestrant-alpelisio",
+            "M": "If ESRim+:Bacestrant",
+            "N": "If germling BRCA/PALB2m+:PARP inhibitor",
+            "O": "PD",
+            "P": "ChT",
+            "Q": "PD",
+            "R": "Sacituzumab govitecan",
+            "S": "Trastuzumab deruxtecan ",
+            "T": "CnT Sacituzumab govitecan if not used befcre",
+
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("A", "C", "If imminent organ falure"),
+            ("C", "B", "PD or intolerable toxicities"),
+            ("B", "D", ""),
+            ("F", "D", ""),
+            ("E", "D", ""),
+            ("C", "E", ""),
+            ("D", "I", ""),
+            ("D", "J", ""),
+            ("I", "K", ""),
+            ("I", "L", ""),
+            ("I", "M", ""),
+            ("I", "N", ""),
+            ("K", "O", ""),
+            ("L", "O", ""),
+            ("M", "O", ""),
+            ("N", "O", ""),
+            ("O", "P", ""),
+            ("J", "P", ""),
+            ("P", "Q", ""),
+            ("Q", "R", "If HER2-0"),
+            ("Q", "S", "If HER2-Low"),
+            ("R", "T", ""),
+            ("S", "T", "")
+        ]
+
+    },
+    "FIRST- AND SECOND-LINE TREATMENT OF HER2-POSITIVE MBC":{
+        "nodes": {
+            "A": "Patients with HER2+ MBC",
+            "B": "1 st-line treatment",
+            "C": "HR+",
+            "D": "ChT,contraindicated",
+            "E": "Trastuzumab (± pertuzumab) + EI ",
+            "F": "No ChT,contraindications",
+            "G": "Dooataxel (or paclitaxel)+ trastuzumab- pertuzumab ≥ 6 cycles followed by trastuzumab-pertuzumab-ET until progression",
+            "H": "HR-",
+            "I": "ChT,contraindicated",
+            "J": "Trastuzumab-pertuzumab until progression ",
+            "K": "No ChT,contraindications",
+            "L": "Docetaxel (or paclitaxel) + trastuzumab-pertuzumab ≥ 6 cycles followed by pertuzumab-trastuzumab until progression ",
+            "M": "2nd-line treatment or progression during \n neoadjuvant or adjuvant treatment",
+            "N": "Active BMs",
+            "O": "Local intervention indicated",
+            "P": "1-10 BMs,favourable prognostic factors",
+            "Q": "Resection",
+            "R": "SRT",
+            "T": "> 10 BMs,unfavourable prognostic factors",
+            "U": "Local intervention not indicated",
+            "V": "Tucatinib-capecitabine-trastuzumab (preferred) or Trastuzumab deruxtecan",
+            "W": "WBRT",
+            "X": "No, unknown or stable BMs",
+            "Y": "Trastuzumab deruxtecan"
+
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("B", "C", ""),
+            ("C", "D", ""),
+            ("D", "E", ""),
+            ("C", "F", ""),
+            ("F", "G", ""),
+            ("B", "H", ""),
+            ("H", "I", ""),
+            ("I", "J", ""),
+            ("H", "K", ""),
+            ("K", "L", ""),
+            ("A", "M", ""),
+            ("M", "N", ""),
+            ("N", "O", ""),
+            ("O", "P", ""),
+            ("P", "Q", ""),
+            ("Q", "R", ""),
+            ("P", "R", ""),
+            ("O", "T", ""),
+            ("T", "W", ""),
+            ("N", "U", ""),
+            ("U", "V", ""),
+            ("M", "X", ""),
+            ("X", "Y", "")
+
+        ]
+    },"THIRD-LINE AND BEYOND TREATMENT OF HER2-POSITIVE MBC":{
+        "nodes": {
+            "A": "Patients with HER2+ MBC\n 3rd-line treatment and beyond",
+            "B": "Active BMs",
+
+            "C": "Local intervention indicated",
+            "D": "1-10 BMs,favourable prognostic factors",
+            "E": "Resection",
+            "F": "SRT",
+            "G": "> 10 BMs,unfavourable prognostic factors",
+            "H": "WBRT",
+            "I": "Local intervention not indicated",
+            "J": "Tucatinib-capecitabine-trastuzumab",
+            "K": "Trastuzumab deruxtecan!",
+            "L": "No, unknown or stable BMs",
+            "M": "Tucatinib-capecitabine-trastuzumab or Trastuzumab deruxtecan+ or T-DM1#",
+            "N": "Lapatinib-capecitabine Lapatinib-trastuzumab* Trastuzumab-ChT* Margetuximab-ChT*t Neratinib-ChT*+"
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("B", "C", ""),
+            ("C", "D", ""),
+            ("C", "G", ""),
+            ("D", "E", ""),
+            ("G", "H", ""),
+            ("D", "F", ""),
+            ("E", "F", ""),
+            ("B", "I", ""),
+            ("I", "J", ""),
+            ("J", "K", ""),
+            ("K", "N", ""),
+            ("L", "M", ""),
+            ("M", "N", ""),
+            ("A", "L", "")
+        ]
+    },"MANAGEMENT OF mTNBC":{
+        "nodes":  {
+            "A": "Patients with mTNBC",
+            "B": "Search theragnostic markers",
+            "C": "PD-L1+",
+            "D": "gBRCAm",
+            "E": "PD-L1-,gBRCA-WT",
+            "F": "Atezolizumab-nab-paclitaxel Pembrolizumab-ChT",
+            "G": "ChT-based therapy (platinum preferred over taxane)",
+            "H": "PARP inhibitor-based tharapy (preferred over ChT)",
+            "I": "Imminent organ failure",
+            "J": "No imminent organ failure",
+            "K": "Preferred: Anthracycline-taxane- based combination Altemative:Taxane-bevacizumab or capecitabine-bevacizumab  ",
+            "L": "Preferred: Taxane or anthracycline monotherapy ",
+            "M": "Sacituzumab govitecan (preferred) or ChT",
+            "N": "IF HER2-low: Trastuzumab daruxtecan",
+            "O": "ChT: Eribulin, capecitabine or vinorelbine",
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("B", "C", ""),
+            ("B", "D", ""),
+            ("B", "E", ""),
+            ("C", "F", ""),
+            ("F", "M", ""),
+            ("D", "G", ""),
+            ("D", "H", ""),
+            ("G", "M", ""),
+            ("H", "M", ""),
+            ("E", "I", ""),
+            ("E", "J", ""),
+            ("I", "K", ""),
+            ("J", "L", ""),
+
+            ("K", "M", ""),
+            ("L", "M", ""),
+
+            ("M", "N", ""),
+            ("M", "O", ""),
+            ("N", "O", ""),
+            ("O", "N", ""),
+
+
+
+        ]
+
+    }
+    #--------------------------------------------------------------------------------
+    #lou
+    #--------------------------------------------------------------------------------
+     ,"MANAGEMENT OF EARLY TNBC": {
+        "nodes": {
+              "A" : "Early TNBC+",
+              "B" : "Surgery and locoregional RT if indicated",
+              "C" : "Consider no adjuvant systemic therapy",
+              "D" : "4-8 cycles systemic ChT",
+              "E" : "Olaparib for 1 year",
+              "F" :"cT1c-T4 or N+",
+              "G" : "6-8 cycles Taxanecarboplatin-AC/EC+",
+              "H" : "6-8 cycles Taxanecarboplatin followed by AC/EC with pembrolizumab",
+              "I" : "Surgery and locoregional RT if indicated ",
+              "J" : "Residual disease",
+              "K" : "9 cycles pembrolizumab",
+              "L" : "Capecitabine for 6-8 cycles",
+              "M" :"Olaparib for 1 year",
+              "N" : "9 cycles pembrolizumab",
+        },
+        "edges": [
+            ("A", "B", "cT1a or cT1b N0"),
+            ("B", "C", "pT1a pN0"),
+            ("B", "D", "pT1b pN0"),
+            ("D", "E", "gBRCA1/2m"),
+            ("A", "F", ""),
+            ("F", "G" , "< cT2 N0"),
+            ("F", "H", ">= cT2 or N+"),
+            ("G", "I", ""),
+            ("H","I", ""),
+            ("I","J",""),
+            ("J","K",""),
+            ("J","L","gBRCA1/2-WT"),
+            ("J","M","gBRCA1/2m"),
+            ("I","N","pCR")
+        ]
+    },"MANAGEMENT OF HER2-POSITIVE EBC": {
+        "nodes": {
+            "A" : "HER2+ EBC",
+            "B" : "Surgery and locoregional RT if indicated",
+            "C" : "12 weeks paclitaxel 18 cycles trastuzumab",
+            "D" : "6-8 cycles ChT trastuzumab",
+            "E" : "6-8 cycles ChT-HP",
+            "F" :"Complete 1 year of ttrastuzumab ",
+            "G" : "Complete 1 year of HP",
+            "H" : "6-8 cycles ChT-HP",
+            "I" : "6-8 cycles ChT-HP ",
+            "J" : "Surgery and locoregional RT",
+            "K" : "pCR",
+            "L" : "Complete 1 year of trastuzumab if HR+, adjuvant ET",
+            "M" : "Complete 1 year of HP if HR+, adjuvant ET",
+            "N" : "T-DM1 up to 14 cycles if HR+ , adjuvant ET",
+          },
+        "edges": [
+            ("A", "B", "cT1 cN0"),
+            ("B", "C", "pT1 pN0"),
+            ("B", "D", ">= pT2 pN0"),
+            ("B", "E", ">= pT2 pN0"),
+            ("D", "F", "HR+ adjuvant ET"),
+            ("E", "G" , "HR+ adjuvant ET"),
+            ("B", "H", "pN+"),
+            ("H", "G", "HR+ adjuvant ET"),
+            ("A","I", ">= cT2* or cN+"),
+            ("I","J",""),
+            ("J","K",""),
+            ("K","L","cN0 at initial diagnosis"),
+            ("K","M","cN+ or pN+ at initial diagnosis"),
+            ("J","N","Residualt invasive disease")
+
+        ]
+    }#----------------------------------------
+    ,"ROLE OF ADJUVANT ET IN HR-POSITIVE EBC": {
+        "nodes": {
+      "A" : "Adjuvant ET in HR+ EBC*",
+      "B" : "Premenopausal",
+      "C" : "Postmenopausal",
+      "D" : "Tamoxifen",
+      "E" : "OFS-tamoxifen OFS-AI",
+      "F" : "Tamoxifen followed by AI ,AI , AI followed by tamoxifen , Tamoxifen+"
+
+}
+,
+        "edges": [
+           ("A", "B", ""),
+            ("A", "C", ""),
+            ("B", "D", "Luminal A-like stage I"),
+            ("B", "E", "Luminal A-like stage II-III or Luminal B-like stage I-III"),
+            ("C", "F" , ""),
+
+
+        ]
+    },"SYSTEMIC TREATMENT OF HR-POSITIVE, HER2-NEGATIVE EBC": {
+        "nodes": {
+      "A" : "HR+/HER2-EBC*",
+      "B" : "Luminal A-like",
+      "C" : "Luminal B-like",
+      "D" : "Adjuvant ET",
+      "F" : "Stage III or high-risk stage II+",
+      "G" :  "Abemaciclib for 2years + ET",
+      "H" : "Olaparib for 1year + ET",
+      "I" : "(Neo)adjuvant ChT followed by ET",
+
+}
+,
+        "edges": [
+            ("A", "B", ""),
+            ("A", "C", ""),
+            ("B", "D" ,"Low risk"),
+            ("D", "F",""),
+            ("F", "G" , "gBRCA1/2-WT or untested"),
+            ("F", "H", "gBRCA1/2m and stage III or high-risk non-pCR"),
+            ("C", "I", ""),
+            ("B", "I", "High risk"),
+            ("I", "F", ""),
+
+        ]
+    },"MANAGEMENT OF ALN INVOLVEMENT IN EBC": {
+        "nodes": {
+              "A": "Management of ALN involvement in EBC*",
+              "B": "Primary surgery indicated*",
+              "C": "PST indicated*",
+              "D": "cN0/N0+",
+              "E": "cN1+/N1+",
+              "F": "Biopsy",
+              "G": "pNx",
+              "H": "pN+",
+              "I": "SLNB",
+              "J": "SLN-",
+              "K": "ACOSOG-Z0011 criteria met",
+              "L": "ACOSOG-Z0011 criteria not met or ≥2 positive LNs",
+              "M": "AMAROS criteria met",
+              "N": "ALND",
+              "O": "RT (axilla)",
+              "P": "RT (basis axilla)",
+              "Q": "No further locoregional treatment",
+              "R": "cN0/cN0+ at primary diagnosis",
+              "S": "cN1+/pN1+ at primary diagnosis",
+              "T": "yN0/pN0 after neoadjuvant ChT",
+              "U": "yN1+/pN1+ after neoadjuvant ChT",
+              "V": "SLN- or TAD-",
+              "W": "SLN+ or TAD+",
+              "X": "ALND (or RT) of regional LNs"
+
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("A", "C", ""),
+            ("B", "D", "cN0/N0+"),
+            ("B", "E", "cN1+/N1+"),
+            ("E", "F", "Biopsy"),
+            ("F", "G", "pNx"),
+            ("F", "H", "pN+"),
+            ("D", "I", "SLNB"),
+            ("G", "I", "SLN+"),
+            ("I", "J", "SLN-"),
+            ("J", "Q", "No further locoregional treatment"),
+            ("J", "K", "ACOSOG-Z0011 criteria met"),
+            ("K", "P", "RT (basis axilla)"),
+            ("K", "N", "ALND"),
+            ("J", "M", "AMAROS criteria met"),
+            ("M", "O", "RT (axilla)"),
+            ("H", "L", "ACOSOG-Z0011 criteria not met or ≥2 positive LNs"),
+            ("L", "N", "ALND"),
+            ("C", "R", "cN0/cN0+ at primary diagnosis"),
+            ("C", "S", "cN1+/pN1+ at primary diagnosis"),
+            ("S", "T", "yN0/pN0 after neoadjuvant ChT"),
+            ("S", "U", "yN1+/pN1+ after neoadjuvant ChT"),
+            ("T", "V", "SLN- or TAD-"),
+            ("U", "W", "SLN+ or TAD+"),
+            ("U", "X", "ALND (or RT) of regional LNs")
+
+        ]
+    }
+
+    #boxi
+    ,"Patients with a suspicion of OMD": {
+        "nodes": {
+            "A": "Biopsy confirmation (when appropriate) Systemic imaging staging, preferably with PET scan",
+            "B": "Patients with a diagnosis of OMD*",
+            "C": "MDT discussion Informed discussion with patient, aligning expectations",
+            "D": "Consider site of metastases (CNS, bone, visceral, etc.) as they may require different approaches Consider management of the primary tumour and axilla in patients with synchronous OMD Consider systemic treatment to document response as a first approach Consider local approach (surgery, RT, RFA, etc.)",
+            "E": "Continue systemic treatment when appropriatet",
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("B", "C", ""),
+            ("C", "D", ""),
+            ("D", "E", "")
+        ]
+    }
+    ,"BRCA1 PV": {
+        "nodes":{
+            "A": "BC risk",
+            "B": "Screaning",
+            "C": "Risk reduction",
+            "D": "Intensifled surveillance with MRI from age 30 or 5 years younger than the youngest family member with BC Imaging should be carried out at 6-monthly intervals If MRI not available for 6-monthly screening, consider: - In carriers 30-39 years of age, US mammography - In carriers ≥ 40 years of age, mammography = US",
+            "E": "If BRRM & reconstruction carried out, consider baseline MRI following surgery - if negligible residual breast tissue, no further imaging screening",
+            "F": "RRMeds may be considered if BRRM is not being adopted or risk does not warrant RRS",
+            "G": "BRRM",
+            "H": "RRMed"
+
+
+        },
+        "edges": [
+            ("A","B",""),
+            ("A","C",""),
+            ("B","D",""),
+            ("B","E",""),
+            ("C","G",""),
+            ("C","H",""),
+            ("G","E",""),
+            ("H","F","")
+
+        ]
+    }
+    ,"BRCA2 PV": {
+        "nodes":{
+            "A": "BC risk",
+            "B": "Screaning",
+            "C": "Risk reduction",
+            "D": "Intensified surveillance with MRI from age 30 or 5 years younger than the youngest family member with BC Imaging should be carried out annually",
+            "E": "If BRRM & reconstruction carried out, consider baseline MRI following surgery - if negligible residual breast tissue, no further imaging screaning",
+            "F": "RRMeds may be considered if BRRM is not being adopted or risk does not warrant RRS",
+            "G": "BRRM",
+            "H": "RRMed"
+
+
+        },
+        "edges": [
+            ("A","B",""),
+            ("A","C",""),
+            ("B","D",""),
+            ("B","E",""),
+            ("C","G",""),
+            ("C","H",""),
+            ("G","E",""),
+            ("H","F","")
+
+        ]
+    },
+    "Diagnosis and staging of EBC":{
+        "nodes": {
+            "A": "Bilateral mammogram and US of both breasts and regional LNs MRI for special situations",
+            "B": "Core biopsy",
+            "C": "Confirmed diagnosis",
+            "D": "Assess biomarkers: ER, PgR, HER2, Ki-67 In HR+/HER2-NO-1 (if relevant for therapy decision): Gene expression assays, endocrine response assessment Test for gBRCA1/2m (if family history or therapeutic relevance)*",
+            "E": "Disease staging and final pathological assessment according to WHO and UICC TNM8, medical/family history, menopausal status, physical examination Minimum blood work-up (a full blood count, liver and renal function tests, alkaline phosphatase and calcium levels) before surgery and systernic (neo)adjuvant therapy CT scan of the chest, abdominal imaging (US, CT or MRI scan) and a bone scan for patients with: Clinically positive axillary nodes; large tumours (e.g. 5 cm); aggressive biology; and clinical signs, symptoms or laboratory values suggesting the presence of metastases Clip marking of the lesions if neoadjuvant treatment and BCS is planned",
+        },
+        "edges": [
+            ("A", "B", ""),
+            ("B", "C", ""),
+            ("C", "D", ""),
+            ("D", "E", "")
+        ]
+    },
+    "Overview of EBC treatment":{
+        "nodes":{
+            "A": "AII HR+",
+            "B": "Premenopausal patients receiving CFS and postmenopausal patients",
+            "C": "HR+/-ER2-",
+            "D": "HER2+",
+            "E": "TNBC",
+            "F": "GT1 NO",
+            "G": "2 CT2 or CN+",
+            "H": "cT1a or cT1b NO",
+            "I": "cT1c-4 or N+",
+            "J": "ET",
+            "K": "Acjuvant bisphosphonates'",
+            "L": "Neoadjuvant therapyt",
+            "L1": "Neoadjuvant therapyt",
+            "L2": "Neoadjuvant therapyt",
+            "M": "Primary surgery ± AT",
+            "O": "Primary surgery ± RT",
+            "R": "Systemic treatment",
+            "T": "Surgery ± AT",
+            "V": "Surgery ± RT",
+
+        },
+        "edges":[
+            ("A","J",""),
+            ("B","K",""),
+            ("C","L",""),
+            ("D","F",""),
+            ("D","G",""),
+            ("E","H",""),
+            ("E","I",""),
+            ("L","O",""),
+            ("F","M",""),
+            ("G","L1",""),
+            ("H","O",""),
+            ("I","L2",""),
+            ("L1","T",""),
+            ("L2","V",""),
+            ("O","R",""),
+            ("M","R",""),
+            ("V","R",""),
+            ("T","R","")
+        ]
+    }
+}
+

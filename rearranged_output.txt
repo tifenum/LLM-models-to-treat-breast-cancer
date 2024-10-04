@@ -1,0 +1,2856 @@
+SPECIAL ARTICLE
+
+ESMO Clinical Practice Guideline for the diagnosis, staging and treatment of
+patients with metastatic breast cancer5
+
+A. Gennari1, F. André2, C. H. Barrios3, J. Cortés4,5,6,7, E. de Azambuja8, A. DeMichele9, R. Dent10, D. Fenlon11, J. Gligorov12,
+S. A. Hurvitz13,14, S.-A. Im15, D. Krug16, W. G. Kunz17, S. Loi18, F. Penault-Llorca19, J. Ricke2,17, M. Robson20, H. S. Rugo21,
+C. Saura22, P. Schmid23, C. F. Singer24, T. Spanic25, S. M. Tolaney26, N. C. Turner27, G. Curigliano28, S. Loibl29,
+S. Paluch-Shimon30 & N. Harbeck31, on behalf of the ESMO Guidelines Committee*
+
+1Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy; 2Breast Cancer Unit, Medical Oncology Department, Gustave RoussydCancer
+Campus, Villejuif, France; 3Oncology Research Center, Grupo Oncoclínicas, Porto Alegre, Brazil; 4International Breast Cancer Center (IBCC), Quironsalud Group,
+Barcelona; 5Scientiﬁc Department, Medica Scientia Innovation Research, Valencia; 6Vall d’Hebron Institute of Oncology (VHIO), Barcelona; 7Universidad Europea de
+Madrid, Faculty of Biomedical and Health Sciences, Department of Medicine, Madrid, Spain; 8Medical Oncology Department, Institute Jules Bordet and l’Université
+Libre de Bruxelles (U.L.B.), Brussels, Belgium; 9Hematology/Oncology Department, Hospital of the University of Pennsylvania, Philadelphia, USA; 10Department of
+Medical Oncology, National Cancer Centre Singapore, Singapore; 11College of Human and Health Sciences, Swansea UniversitydSingleton Park Campus, Swansea, UK;
+12Département d’ Oncologie Médicale, Institut Universitaire de Cancérologie AP-HP, Sorbonne Université, Hôpital Tenon, Paris, France; 13Department of Medicine/
+Division of Hematology Oncology, David Geffen School of Medicine, University of California, Los Angeles; 14Jonsson Comprehensive Cancer Center, Los Angeles, USA;
+15Department of Internal Medicine, Seoul National University Hospital, Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of
+Korea; 16Department of Radiation Oncology, University Hospital Schleswig-HolsteindCampus Kiel, Kiely; 17Department of Radiology, University Hospital, LMU Munich,
+Munich, Germany; 18Peter MacCallum Cancer Centre, Melbourne, Australia; 19Centre de Lutte Contre le Cancer Jean Perrin, Imagerie Moléculaire et Stratégies
+Théranostiques, Université Clermont Auvergne, UMR INSERM-UCA, Clermont Ferrand, France; 20Medicine Department, Memorial Sloan Kettering Cancer Center, New
+York; 21Department of Medicine, University of California San Francisco Helen Diller Family Comprehensive Cancer Center, San Francisco, USA; 22Breast Cancer Program,
+Vall d’Hebron University Hospital, Vall d’Hebron Institute of Oncology (VHIO), Barcelona, Spain; 23Centre of Experimental Cancer Medicine, Cancer Research UK Barts
+Centre, Barts and The London School of Medicine and Dentistry, London, UK; 24Center for Breast Health and Department of Obstetrics & Gynecology, Medical
+University of Vienna, Vienna, Austria; 25Europa Donna Slovenia, Slovenia; 26Dana-Farber Cancer Institute, Boston, USA; 27The Royal Marsden Hospital NHS Foundation
+Trust, London, UK; 28Early Drug Development for Innovative Therapies Division, Istituto Europeo di Oncologia, IRCCS and University of Milano, Milan, Italy; 29GBG
+Forschungs GmbH, Neu-Isenburg, Germany; 30Sharett Institute of Oncology Department, Hadassah University Hospital & Faculty of Medicine Hebrew University,
+Jerusalem, Israel; 31Breast Center, Department of Obstetrics & Gynecology and Comprehensive Cancer Center Munich, LMU University Hospital, Munich, Germany
+
+Available online 19 October 2021
+
+Key words: diagnosis, ESCAT, ESMO Clinical Practice Guideline, ESMO-MCBS, metastatic breast cancer, treatment
+
+GENERAL PRINCIPLES
+
+as well as patient preferences, need to be considered as
+part of a shared decision-making process. In elderly pa-
+tients, a comprehensive geriatric assessment may add
+important information.9
+
+Metastatic breast cancer (MBC) is an incurable disease, but
+survival improvements have been reported with appro-
+priate therapeutic strategies.1-8 Systemic therapy is the
+standard-of-care in MBC but may be supplemented with
+locoregional treatments (LRTs) according to the disease
+status of the individual patient. Thus, a multidisciplinary
+team (MDT) is a prerequisite for optimal management.
+These guidelines are based on breast cancer (BC) biological
+subtypes even though modern targeted drugs may lead to
+revisions of these subtypes in the future, as exempliﬁed by
+the ﬁrst tumour-agnostic approvals.
+Treatment decisions need to be made independent of
+patient age, but comorbidities and patient characteristics,
+
+Supportive care should always be part of the treatment
+plan and early introduction of expert palliative care may
+help to better control symptoms.
+Rechallenge with drugs previously used in the early
+breast cancer (EBC) setting is a reasonable option, provided
+that the disease-free interval (DFI) is 12 months after the
+last drug administration and that no remaining toxicities
+exist. Approved biosimilars can be used instead of originator
+drugs in all registered indications.10
+
+This
+patient
+population
+should
+be
+encouraged
+to
+consider participation in clinical trials early in their disease
+course, with preference given to enrolment on to a clinical
+trial, if available, in each line of therapy.
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+
+5Note: Approved by the ESMO Guidelines Committee: October 2012, last
+update October 2021. This publication supersedes the previously published
+versiondAnn Oncol. 2012;23(suppl 7):vii11-vii19.
+0923-7534/© 2021 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+INCIDENCE AND EPIDEMIOLOGY
+
+With >400 000 cases in the European Union (EU) in 2018,11
+
+BC is the most frequent cancer affecting women. Although
+
+of chemotherapy (ChT), with or without immune checkpoint
+inhibitor (ICI) therapy according to programmed death-
+ligand 1 (PD-L1) status, or targeted therapies such as anti-
+body-drug conjugates (ADCs) should be considered for pa-
+tients
+with
+metastatic
+triple-negative
+breast
+cancer
+(mTNBC). A similar approach should be reserved for pa-
+tients with discordance in HER2 status when negative at
+baseline and positive in the metastatic setting; if HER2-
+positive in the metastatic setting, anti-HER2 therapy should
+be considered. In all scenarios, the multidisciplinary tumour
+board should discuss treatment options on a case by case
+basis.16 This tumour heterogeneity needs to be taken into
+account for each new line of treatment and a re-biopsy may
+be appropriate in cases of mixed response.
+In ER-low tumours (i.e. ER positive in 1%-9% tumour
+cells), limited evidence suggests that these cancers may be
+less sensitive to endocrine therapy (ET), although they may
+beneﬁt from treatment with ET and cyclin-dependent ki-
+nase 4 and 6 (CDK4/6) inhibitor combinations [IV, B].17
+
+Further details of additional biomarkers that may guide
+the treatment approach in MBC can be found in the
+Supplementary TextdSection 1, available at https://doi.
+org/10.1016/j.annonc.2021.09.019.
+
+Recommendations
+
+ At ﬁrst diagnosis of MBC, a biopsy should be carried out
+to conﬁrm histology and re-assess tumour biology (ER,
+PgR, HER2) [I, B].
+ Other therapeutically relevant biomarkers to be assessed
+as part of routine clinical practice include: germline
+BRCA1/2 mutation (gBRCAm) status in HER2-negative
+MBC, PD-L1 status in triple-negative breast cancer
+(TNBC)
+and
+phosphatidylinositol-4,5-bisphosphate
+3-kinase catalytic subunit alpha (PIK3CA) in ER/PgR-
+positive, HER2-negative MBC [I, A; ESMO Scale for Clinical
+Actionability of Molecular Targets (ESCAT) score: I-A].
+ Genomic proﬁling and further diagnostic tests [e.g. on
+tumour tissue or circulating tumour DNA (ctDNA)]
+should only be carried out as part of routine clinical prac-
+tice if the result will change the treatment approach, as
+guided by the ESCAT scale, or if the patient can access
+appropriate clinical trials [V, B].
+
+STAGING AND RISK ASSESSMENT
+
+Recommendations
+
+ The minimum imaging work-up for staging includes
+computed tomography (CT) of the chest and abdomen
+and bone scintigraphy [II, A].
+ [18F]2-ﬂuoro-2-deoxy-D-glucose (18F-FDG) positron emis-
+sion tomography (PET)eCT may be used instead of CT
+and bone scans [II, B].18,19
+
+ There is no evidence that any staging or monitoring
+approach provides an OS beneﬁt over another.19
+
+ The imaging modality chosen at baseline should be
+applied for disease monitoring to ensure comparability
+[III, B].
+
+ Repeat bone scans are a mainstay of evaluation for
+bone-only/predominant metastases, but image interpre-
+tation may be confounded by a possible ﬂare during the
+ﬁrst few months of treatment [III, C].19
+
+ PETeCT might provide earlier guidance in monitoring
+bone-only/predominant metastases, but prospective tri-
+als are needed to study the impact on treatment deci-
+sions and OS [III, C].19,21
+
+ Impending fracture risk should be evaluated by CT or
+X-rays. The spine instability neoplastic score provides
+reproducible risk assessment for vertebral metastases.22
+
+In case of suspected cord compression, magnetic reso-
+nance imaging (MRI) is the modality of choice [I, A].
+
+PIK3CA mutation status [ESCAT I-A]b
+
+gBRCAm [ESCAT I-A] (PALB2
+assessment optional [ESCAT II-A])b
+
+inhibitor in combination with an AI is advised, with no clear
+advantage of fulvestrant seen in a phase II study.34 In pa-
+tients who relapsed on adjuvant AI therapy, or within 12
+months of stopping adjuvant AI, a CDK4/6 inhibitor in
+combination with fulvestrant is advised [ESMO-MCBS v1.1
+score: 4]. While there have been no head-to-head com-
+parisons of the three approved CDK4/6 inhibitors, the efﬁ-
+cacy of the three drugs in the metastatic setting appears
+similar. Palbociclib and ribociclib have not demonstrated
+single-agent efﬁcacy and must be combined with ET; how-
+ever, abemaciclib has demonstrated limited single-agent
+efﬁcacy [ESMO-MCBS v1.1 score: 3].35 Direct cross-trial
+comparisons are not possible due to the heterogeneous
+inclusion criteria. The toxicity proﬁles of these three drugs
+are slightly different,25-30 and patients who develop severe
+toxicity characteristic of one CDK4/6 inhibitor may switch to
+a different CDK4/6 inhibitor.
+ET alone in the ﬁrst-line setting should be reserved for
+the small group of patients with comorbidities or a per-
+formance status (PS) that prevents the use of CDK4/6 in-
+hibitor combinations; there are no clinical or biomarker
+data that can help to identify patients suitable for ET alone.
+Older age alone should not be used to select for endocrine
+monotherapy, although there may be a higher incidence of
+haematological adverse events (AEs) from CDK4/6 inhibitor
+therapy in older patients.1
+
+In patients who required ﬁrst-line ChT due to imminent
+organ failure, or who did not have access to a CDK4/6 in-
+hibitor in the ﬁrst-line setting, it is clinically acceptable to
+use ET plus a CDK4/6 inhibitor as a subsequent therapy in
+cases of progressive disease. In general, maintenance ET
+(single agent) following ChT may be an option in clinically
+stable patients based on the physician’s judgement.
+
+Second-line treatment
+
+Options after progression on a CDK4/6 inhibitor. In pa-
+tients who relapse after ET plus a CDK4/6 inhibitor, deter-
+mination of somatic PIK3CA and estrogen receptor 1 (ESR1)
+mutations (optional, if further AI is being considered), as
+well as germline BRCA1/2 and partner and localiser of
+BRCA2 (PALB2) mutations (optional), is recommended.
+The optimal sequence of endocrine-based therapy is
+uncertain after progression on CDK4/6 inhibitors. It is
+dependent on which agents were used previously [in the
+(neo)adjuvant or advanced settings], duration of response
+(DoR) to previous ET (for use of second-line single-agent
+ET), disease burden, patient preference and treatment
+availability. Evidence-based available options for second-
+line therapy include fulvestrantealpelisib (for PIK3CA-
+mutated tumours) [I, B; ESMO-MCBS v1.1 score: 2; ESCAT
+score: I-A], exemestaneeeverolimus [I, B; ESMO-MCBS v1.1
+score: 2], tamoxifeneeverolimus [II, B; off label], fulves-
+tranteeverolimus [II, B; off label], AI, tamoxifen, fulvestrant,
+ChT or poly (ADP-ribose) polymerase (PARP) inhibitors for
+tumours harbouring gBRCAm [I, B; ESMO-MCBS v1.1 score:
+4; ESCAT score: I-A].
+
+patients,36 although no new safety signals were observed
+with longer follow-up.37 In view of the balance between ef-
+ﬁcacy and toxicity, it is crucial to carefully select candidates
+for this treatment, considering comorbidities, especially pre-
+existing diabetes and baseline glycated haemoglobin (HbA1c)
+levels. Hyperglycaemia from alpelisib occurs early and can be
+challenging to manage; collaboration with diabetes special-
+ists is therefore recommended. It is also recommended that
+patients take non-sedating antihistamines to prevent rash at
+the start of therapy (see Supplementary Table S2, available at
+https://doi.org/10.1016/j.annonc.2021.09.019);38 these can
+be discontinued after 4-8 weeks as the risk for rash is pri-
+marily in the ﬁrst 2 weeks of therapy.
+In view of the better efﬁcacy/toxicity proﬁle provided by
+CDK4/6 inhibitors, alpelisib plus ET should be used after a
+
+Patients with ER+/HER2– MBC
+
+ChT
+
+If imminent organ failure
+
+At PD
+
+ET–CDK4/6 inhibitor [I, A]a,e
+
+If germline BRCA/PALB2m+:
+PARP inhibitor 
+[I, A; MCBS 4; ESCAT I-A]c,d
+
+Imminent organ failure
+
+The optimal ChT sequence in MBC has not been estab-
+lished. Taxanes and anthracyclines should be considered,
+especially in patients who have not received these agents in
+an earlier setting or in patients with a DFI of 12 months
+after use of these therapies [II, B]. If available, use of
+liposomal anthracyclines or protein-bound paclitaxel may
+be considered for the rechallenge [II, B]. If rechallenge with
+anthracyclines is planned, attention needs to be paid to the
+lifetime cumulative dose limits and cardiac monitoring is
+mandatory.49 Capecitabine, eribulin, vinorelbine, platinums
+or other agents should be discussed with patients as po-
+tential treatment options [I, A]; the reported efﬁcacy in
+terms of PFS and OS, expected toxicity proﬁle, administra-
+tion route and treatment schedule all need to be explained.
+If capecitabine is used, patients should undergo germline
+variant testing for the lack of enzyme, dihydropyrimidine
+dehydrogenase (DPD), before treatment is initiated.50 The
+combination of a taxane or capecitabine with bevacizumab,
+if available, is a ﬁrst-line ChT option, given the reported PFS
+beneﬁt versus ChT alone and lower toxicity compared with
+combination ChT, even in the absence of an OS beneﬁt or
+improvement in QoL [I, C; ESMO-MCBS v1.1 score: 2].51
+
+ChT should
+generally
+be
+continued
+until
+disease
+progression or intolerable toxicity (except for anthracy-
+clines where the maximum cumulative dose should
+be taken into consideration to minimise cardiac toxicity)
+[II, B].8
+
+Recommendations
+
+First-line treatment
+
+ A CDK4/6 inhibitor combined with ET is the standard-of-
+care ﬁrst-line therapy for patients with ER-positive,
+HER2-negative MBC, since it is associated with substan-
+tial PFS and OS beneﬁts and maintained or improved
+QoL [I, A; ESMO-MCBS v1.1 scores: 3-5].
+ ET alone in the ﬁrst-line setting should be reserved
+for the small group of patients with comorbidities or a
+PS
+that
+precludes
+the
+use
+of
+CDK4/6
+inhibitor
+combinations.
+ Pre- and perimenopausal women must receive OFS in
+addition to all endocrine-based therapies.
+
+Second-line treatment
+
+ Selection of second-line therapy (ChT versus further
+endocrine-based therapy) should be based on disease
+aggressiveness, extent and organ function, and consider
+the associated toxicity proﬁle.
+ Alpelisibefulvestrant is a treatment option for patients
+with PIK3CA-mutant tumours (in exons 7, 9 or 20), prior
+exposure to an AI ( CDK4/6 inhibitors) and appropriate
+HbA1c levels [I, B; ESMO-MCBS v1.1 score: 2; ESCAT
+score: I-A].
+ Everolimuseexemestane is an option since it signiﬁcantly
+prolongs PFS [I, B; ESMO-MCBS v1.1 score: 2]. Tamoxifen
+or fulvestrant can also be combined with everolimus [II,
+B]. If everolimus is used, stomatitis prophylaxis must be
+used.
+
+Trastuzumabepertuzumabetaxane is recommended in
+the ﬁrst-line setting regardless of HR status (ER and/or PgR)
+[I, A]. However, ET may be added to trastuzumabepertu-
+zumab maintenance therapy after completing at least six
+cycles of upfront concomitant ChT for those with HER2-
+positive, HR-positive tumours [II, A].53
+
+If patient comorbidities, personal preferences or PS
+preclude the use of ChT in patients with HER2-positive,
+HR-positive BC, ET (e.g. an AI) in combination with a HER2-
+targeted therapy, such as trastuzumab,54,55 trastuzumabe
+pertuzumab,53 trastuzumabelapatinib56 or lapatinib,57 may
+be used [II, B]. The use of single-agent ET without a HER2-
+targeted therapy is not routinely recommended unless
+cardiac disease precludes the safe use of HER2-directed
+therapies [III, C]. If ChT is contraindicated in patients with
+HER2-positive, HR-negative tumours, HER2-targeted ther-
+apy without ChT (e.g. trastuzumab or trastuzumabepertu-
+zumab58) may be used; if taxanes are contraindicated, a less
+toxic ChT partner (e.g. capecitabine or vinorelbine) may be
+considered [III, C; off label].
+It is suggested that patients with metastatic recurrence
+within 6-12 months of receiving adjuvant trastuzumabe
+pertuzumab should follow second-line therapy recommen-
+dations4 [II, B]. However, patients who experience distant
+metastatic recurrence within 12 months of adjuvant tras-
+tuzumab (without pertuzumab) may receive ﬁrst-line tras-
+tuzumabepertuzumabetaxane or second-line therapy.
+In view of the therapies currently used in HER2-positive
+EBC, general recommendations for drug rechallenge may
+be applied in HER2-positive MBC.
+
+Second-line treatment. Ado-trastuzumab emtansine (T-
+DM1) was the gold standard second-line therapy based on
+consistent PFS and OS data from the EMILIA4 and
+TH3RESA59 trials which compared T-DM1 with either
+lapatinibecapecitabine4
+or
+treatment
+of
+physician’s
+choice,59 respectively [I, A; ESMO-MCBS v1.1 score: 4;
+ESCAT score: I-A]. However, data from the DESTINY-Breast-
+03 trial indicate that the ADC, fam-trastuzumab der-
+uxtecan-nxki (trastuzumab deruxtecan), is associated with
+a signiﬁcantly improved PFS (HR 0.28; P ¼ 7.8  1022)
+compared with T-DM1 in patients previously treated with a
+taxane and trastuzumab in the advanced disease setting.60
+
+The 12-month PFS rate was 75.8% with trastuzumab der-
+uxtecan versus 34.1% with T-DM1. A strong trend in favour
+of OS beneﬁt was also observed (HR 0.56; P ¼ 0.007172),
+although statistical signiﬁcance has not yet been reached.
+The objective response rate (ORR) with trastuzumab der-
+uxtecan was 79.7% versus 34.2% with T-DM1. Drug-related
+interstitial lung disease (ILD) occurred in 10.5% of patients
+(0.8% grade 3) but no deaths were reported. Based on the
+strength of these efﬁcacy and safety data, it is reasonable
+to consider trastuzumab deruxtecan the new standard
+second-line therapy in regions where this drug is available
+[I, A], moving T-DM1 to a later-line setting. Trastuzumab
+deruxtecan has not yet received FDA or EMA approval
+for use as second-line therapy based on results from
+the DESTINY-Breast-03 trial, although it may be used as
+
+pertuzumab-
+and
+ADC-pretreated
+HER2-positive
+MBC
+(Figure 4). In the HER2CLIMB study,62 the addition of
+tucatinib to trastuzumabecapecitabine increased the me-
+dian PFS from 5.6 months to 7.8 months (HR 0.54; P <
+0.001) [I, A; ESMO-MCBS v1.1 score: 3; ESCAT score: I-A].
+Median OS was also improved with tucatinib-based treat-
+ment (21.9 versus 17.4 months, respectively; HR 0.66; P ¼
+0.005).
+Trastuzumab deruxtecan is a third-line treatment option
+for patients who have not received this agent in the second-
+line setting based on activity reported in a large, single-
+cohort phase II study (N ¼ 184).63 In heavily pretreated
+patients with a median of six prior lines of therapy, median
+PFS was 19.4 months and ORR was 61.4% (updated data).64
+
+However, treatment was associated with 15.2% of ILD. The
+case fatality rate of 2.2% led to a ‘black box warning’ in the
+United States. [III, A; ESMO-MCBS v1.1 score: 2; ESCAT
+score: I-A].
+
+Local intervention 
+indicatedd
+
+Local intervention 
+not indicated
+
+1-10 BMs, 
+favourable 
+prognostic factors
+
+>10 BMs, 
+unfavourable 
+prognostic factors
+
+Tucatinib– 
+capecitabine– 
+trastuzumab
+[II, A; MCBS 3; 
+ESCAT I-A]a,b
+
+(preferred)
+or
+Trastuzumab 
+deruxtecan 
+[II, A; ESCAT I-A]b,c
+
+Trastuzumab 
+deruxtecan 
+[I, A; ESCAT I-A]b,c
+
+(preferred) 
+or
+T-DM1 
+[I, A; MCBS 4; 
+ESCAT I-A]a,b
+
+2nd-line treatment after trastuzumab ± pertuzumab
+
+Active BMs
+No, unknown 
+or stable BMs
+
+Resection 
+[II, B]
+
+SRT 
+[II, B]
+WBRT
+[II, B]
+
+SRT
+For 1-4 BMs [I, A]
+For 5-10 BMs [II, B]
+
+pretreated HER2-positive MBC based on the NALA study,
+which randomised patients to receive capecitabine with
+either lapatinib or neratinib.66 There was a modest
+improvement in PFS (HR 0.76; P ¼ 0.0059) and substantial
+toxicity but no OS beneﬁt [I, C; ESMO-MCBS v1.1 score: 1;
+ESCAT score: I-A; FDA approved, not European Medicines
+Agency (EMA) approved].
+Margetuximab-cmkb (margetuximab), an Fc-engineered
+antibody derivative of trastuzumab, was evaluated in the
+SOPHIA trial, which randomised patients who had received
+2 prior lines of anti-HER2 therapy to receive margetux-
+imab plus ChT versus trastuzumab plus ChT.67 PFS was
+
+Tucatinib–capecitabine–trastuzumab
+[I, A; MCBS 3; ESCAT I-A]b,c
+
+or
+Trastuzumab deruxtecan
+[III, A; MCBS 2; ESCAT I-A]b,c,e
+
+or
+T-DM1 [I, A; MCBS 4; ESCAT I-A]b,c,e
+
+Lapatinib–trastuzumab 
+[I, B; MCBS 4; ESCAT I-A]a-c
+
+Trastuzumab–ChT
+[III, A; ESCAT I-A]a,c
+
+Margetuximab–ChT
+[I, B; MCBS 2; ESCAT I-A]a-d
+
+Neratinib–ChT
+[I, C; MCBS 1; ESCAT I-A]a-d
+
+ Tucatinibecapecitabineetrastuzumab
+or
+trastuzumab
+deruxtecan may be used in the second-line setting in
+selected patients with BMs [II, A].
+
+Treatment options for third line and beyond
+
+ Tucatinibecapecitabineetrastuzumab [I, A; ESMO-MCBS
+v1.1 score: 3; ESCAT score: I-A], trastuzumab deruxtecan
+[III, A; ESMO-MCBS v1.1 score: 2; ESCAT score: I-A] and
+T-DM1 [I, A; ESMO-MCBS v1.1 score: 4; ESCAT score:
+I-A] appear to be the most active treatment options in
+the third-line setting. The choice of treatment depends
+on prior second-line therapy, patient characteristics,
+toxicity proﬁle and availability.
+ In later lines of therapy, lapatinib is an evidence-based
+therapy option to be used preferably in combinations
+(e.g. with capecitabine, trastuzumab or ET) [I, C].
+ Neratinib [I, C; ESMO-MCBS v1.1 score: 1; ESCAT score:
+I-A; FDA approved, not EMA approved] and margetuxi-
+mab [I, B; ESMO-MCBS v1.1 score: 2; ESCAT score: I-A;
+FDA approved, not EMA approved] can be considered
+reasonable approaches in the late-line scenario. Although
+there are no comparative data, the most appropriate
+setting might be in patients who have exhausted all stan-
+dard therapy options [V, C]. However, in HER2-positive
+MBC, there is no evidence for sequencing a TKI after a TKI.
+ Continued anti-HER2-based therapy is the current clinical
+standard for patients with HER2-positive tumours. If
+other anti-HER2 therapies have been exhausted, are
+not considered suitable or are not available, trastuzumab
+beyond progression should be considered [III, A].
+
+TNBC
+
+Deﬁnitions. Initially ‘triple-negative’ BCs were deﬁned by
+the absence of expression of ER and PgR receptors and of
+overexpression of HER2 or ampliﬁcation of HER2neu. This
+implies that this category of BCs is not deﬁned by a ther-
+agnostic characteristic (see Diagnosis, Pathology and Mo-
+lecular Biology section). According to this deﬁnition, they
+represent w15%-20% of all BCs.68 Further details of TNBC
+deﬁnitions
+can
+be
+found
+in
+the
+Supplementary
+TextdSection 2, available at https://doi.org/10.1016/j.
+annonc.2021.09.019.
+
+First-line systemic treatment strategies. A proposed treat-
+ment strategy for the management of mTNBC is shown in
+Figure 5. For most TNBCs, ChT remains the standard treat-
+ment. However, speciﬁc data concerning mTNBCs treated
+by historical but still relevant ChTs are missing. In the ﬁrst
+line, establishment of PD-L1 and gBRCAm status is para-
+mount since they enable management optimisation.
+
+PD-L1-positive mTNBC. Three trials have addressed the
+question of adding an ICI to ChT in mTNBC,69-71 two with
+atezolizumab70,71
+and
+one
+with
+pembrolizumab69
+
+(Supplementary Table S3, available at https://doi.org/10.
+1016/j.annonc.2021.09.019).
+For
+atezolizumab,
+two
+trials
+have
+addressed
+the
+same question: IMpassion130 evaluated atezolizumab plus
+
+atezolizumab arm (an updated efﬁcacy analysis reported a
+smaller OS difference of 25 versus 18 months70). Based on
+these data, atezolizumabenab-paclitaxel was approved by
+the EMA (but has been withdrawn from the FDA approval
+process by the manufacturer due to lack of conﬁrmatory
+data) and may be considered an option in the ﬁrst-line
+setting in patients with de novo MBC or a DFI 12 months
+whose tumours have PD-L1 expression 1% based on
+staining of the immune cells [II, A; ESMO-MCBS v1.1 score: 3;
+ESCAT score: I-A; EMA approved, not FDA approved].
+Unlike the IMpassion130 results, in the PD-L1-positive
+population of IMpassion131, atezolizumab did not signiﬁ-
+cantly improve PFS or OS compared with placebo. It is
+unclear if steroid use with solvent-based paclitaxel played
+any role in dampening the effect of the immune response
+(although beneﬁt was seen in KEYNOTE-355 where steroids
+were used in two of the three ChT arms69) or if other
+
+Imminent organ failure
+No imminent organ failure
+
+Preferred: anthracycline–taxane-
+based combination
+Alternative: taxane–bevacizumab 
+or capecitabine–bevacizumab 
+
+Preferred: taxane or 
+anthracycline monotherapy, 
+with opposite agent used 
+at progression
+
+with single-agent therapy (HR 0.88; 95% CI 0.83-0.94;
+P < 0.001), the clinical beneﬁt was modest and at the cost
+of increased toxicity.76 Few of these trials systematically
+investigated the combination versus sequential approach,
+assessed differences in QoL or focused on mTNBC. For these
+reasons, and the fact that a higher ORR was achieved with
+combination regimens (odds ratio 1.28; 95% CI 1.15-1.42;
+P < 0.001), this approach is not considered a standard but
+could be preferred in cases of imminent organ failure.
+There is a paucity of trials addressing the question of
+bevacizumab plus ChT combinations in mTNBC. However, a
+pooled analysis of several phase III trials showed that in
+patients with mTNBC, the addition of bevacizumab to
+paclitaxel or capecitabine improved PFS (HR 0.63; 95% CI
+0.52-0.76) with a 2.7-month absolute improvement in PFS
+but no improvement in OS.51 Therefore, bevacizumab plus
+either paclitaxel or capecitabine are also therapeutic op-
+tions in the ﬁrst-line setting in countries where bev-
+acizumab is available [ESMO-MCBS v1.1 score: 2].
+
+Progression after anthracyclines and taxanes. The ADC,
+sacituzumab govitecan-hziy (sacituzumab; FDA approved,
+not EMA approved), received accelerated FDA approval in
+mTNBC based on a single arm, phase I/II dose escalation,
+dose expansion study (IMMU-132-01).77 In this trial, the
+mTNBC cohort comprised 108 patients who had received
+2 prior therapies for metastatic disease who were treated
+at the recommended phase II dose of 10 mg/kg on days 1
+and 8 of a 21-day cycle (q3w). The ORR was 33% (95% CI
+24.6% to 43.1%), with 2.8% complete responses and 30.6%
+partial responses, and a median DoR of 7.7 months (95% CI
+4.9-10.8 months). Adverse reactions occurring in 25% of
+patients included nausea, neutropaenia, GI complications,
+rash and alopecia. Notably, patients homozygous for the
+UGT1A1*28 genotype had an increased risk of severe
+neutropaenia and diarrhoea, resulting in a ‘black box
+warning’. The conﬁrmatory phase III ASCENT trial included
+529 patients with TNBC who had received a range of 2-17
+prior treatments for MBC.5 PFS was improved from 1.7 to
+5.6 months (HR 0.41; 95% CI 0.32-0.52; P < 0.001) and OS
+from 6.7 to 12.1 months (HR 0.48; 0.38-0.59; P < 0.0001)
+compared with eribulin, vinorelbine, capecitabine or gem-
+citabine. ORR was also increased from 5% to 35%. Selection
+for Trop2 expression did not signiﬁcantly affect efﬁcacy.78
+
+Based on these results, sacituzumab has received FDA
+approval but is not currently EMA approved. It might be
+considered
+as
+the
+preferred
+treatment
+option
+after
+anthracyclines and taxanes, particularly if patients have also
+received carboplatin and capecitabine in the adjuvant
+setting and if no theragnostic markers are available such as
+gBRCAm [ESMO-MCBS v1.1 score: 4; FDA approved, not
+EMA approved]. After progression on sacituzumab, all ChT
+recommendations for HER2-negative disease also apply for
+TNBC such as eribulin, capecitabine and vinorelbine.
+ICI monotherapy in later lines for advanced TNBC is not
+recommended due to low response rates, as seen in the
+KEYNOTE-119
+trial. However, although
+pembrolizumab
+monotherapy does not improve OS versus ChT, there does
+
+ After progression, all ChT recommendations for HER2-
+negative disease also apply for TNBC such as eribulin,
+capecitabine and vinorelbine.
+ There are no data to support antiandrogen therapy, or
+inhibitors targeting PI3K, HER2 or AKT for advanced
+TNBC and therefore these cannot be recommended for
+routine use outside a clinical trial.
+
+Hereditary BC (gBRCAm)
+
+Two randomised studies of patients with HER2-negative
+MBC and gBRCAm previously treated with anthracyclines
+and/or taxanes demonstrated that treatment with a PARP
+inhibitor (olaparib, talazoparib) resulted in statistically sig-
+niﬁcant improvements in PFS compared with capecitabine,
+vinorelbine, eribulin or (in one study) gemcitabine.47,48 OS
+was not improved but a post hoc subset analysis of one
+study suggested improved OS in patients receiving olaparib
+who had not received prior ChT for metastatic disease.81
+
+Notably, over 40% of the control arm in each study
+received a platinum or PARP inhibitor after progression on
+study treatment.
+The patients enrolled in the pivotal trials were largely
+women. However, there is no plausible biological reason to
+expect lower efﬁcacy in men with MBC and gBRCAm.
+Eligibility criteria for the studies included prior treatment
+with (or inappropriateness for) anthracyclineetaxane ChT.
+This selection was guided by regulatory considerations
+rather than a biological rationale. Therefore, PARP inhibitors
+should not be withheld from patients without prior
+anthracyclineetaxane treatment. Indeed, based on the
+subset analysis of OlympiAD, requiring progression on these
+agents in the metastatic setting may be associated with a
+lower magnitude of OS beneﬁt. Patients with HR-positive
+MBC and gBRCAm do beneﬁt from PARP inhibitor treat-
+ment, with no statistical evidence of heterogeneity of effect
+in either of the pivotal phase III trials.
+Platinum-based ChT (single agent or combined with
+paclitaxel) is associated with a substantial PFS beneﬁt in
+patients with MBC and gBRCAm.73,82 Median PFS with
+paclitaxel and carboplatin in the BROCADE-3 study was
+12.6 months but there was no single-agent ChT arm for
+comparison.82 In TNBC, PFS with ﬁrst-line single-agent
+carboplatin was superior to single-agent docetaxel only in
+patients with gBRCAm.73 There are no studies directly
+comparing PARP inhibitors with a platinum agent (either
+alone or in combination with other ChT agents or ICIs). It
+should be noted that in the pivotal trials, health-related
+quality of life (HRQoL) was better with PARP inhibitors
+compared with ChT.83,84 There are no studies comparing
+PARP inhibitors with ET (alone or with targeted therapies)
+in patients with HR-positive disease. Decisions about
+sequencing of PARP inhibitors with other treatments
+should be based on factors such as prior treatment
+response, disease burden, PD-L1 status, PIK3CA status, HR
+status
+and
+the
+relative
+toxicities
+of
+the
+different
+approaches.
+
+Complete imaging history should be available for deci-
+sions on OMD care [V, B].
+ Patients with OMD should be discussed in a multidisci-
+plinary context to individualise management [V, B].
+ Multimodality treatment approaches involving LRT [e.g.
+high conformal radiotherapy (RT), image-guided abla-
+tion, selective internal radiotherapy and/or surgery]
+combined with systemic treatments are recommended,
+tailored to the disease presentation in the individual pa-
+tient [V, B].
+ Local ablative therapy to all metastatic lesions may be
+offered on an individual basis after discussion in a multi-
+disciplinary setting [II, C]; however, it is unknown if this
+leads to improved OS.
+
+Bone metastases and bone-modifying agents
+
+ A multidisciplinary approach is essential to manage pa-
+tients with bone metastases and prevent skeletal-
+related events (SREs) [V, A].
+ An orthopaedic evaluation is advised in case of signiﬁ-
+cant lesions in long bones or vertebrae as well as in pa-
+tients with metastatic spinal cord compression (MSCC) to
+discuss the possible role of surgery [IV, A].
+ RT is recommended for lesions at moderate risk of frac-
+ture and those associated with moderate to severe pain
+[I, A].
+ A single 8-Gy RT fraction is as effective as fractionated
+schemes in uncomplicated bone metastases [I, A].
+ RT should be delivered after surgery for stabilisation or
+separation surgery for MSCC [III, B].
+ Bone-modifying agents (BMAs), e.g. bisphosphonates or
+denosumab, are recommended for patients with bone
+metastases, regardless of symptoms [I, A].
+ Zoledronate can be administered every 12 weeks in pa-
+tients with stable disease after 3-6 monthly treatments
+[I, B].
+ Denosumab should be administered every 4 weeks and
+is more effective than zoledronate in delaying ﬁrst and
+subsequent SREs [I, B].
+ Before BMA initiation, patients should have a complete
+dental evaluation and ideally complete any required
+dental treatment. Calcium and vitamin D supplements
+should be prescribed [III, A].
+ The optimal duration of BMA therapy has not been
+deﬁned but it is reasonable to interrupt therapy after
+2 years for patients in remission [II, B].86
+
+ The
+ideal
+sequence
+of
+therapies
+has
+not
+been
+deﬁned but it seems reasonable to document tumour
+response with a systemic treatment before suggesting
+LRT [V, C].
+
+BMs and LMs
+
+ BMs should be managed according to the recommenda-
+tions outlined in the European Association of Neuro-
+Oncology-ESMO (EANO-ESMO) Clinical Practice Guide-
+line (CPG) for the management of patients with BMs
+from solid tumours.87
+
+MCBS v1.1 score: 3; ESCAT score: I-C] are approved for
+patients with solid tumours expressing a neurotrophic
+tyrosine receptor kinase (NTRK) gene fusion, and pem-
+brolizumab is approved for patients with unresectable or
+metastatic microsatellite instability-high/mismatch repair-
+deﬁcient solid tumours who have progressed and have no
+alternative treatment options [ESCAT score: I-C]. As such,
+these biomarkers need to be checked once subtype-speciﬁc
+standard therapies have been exhausted. For personalised
+therapy approaches, ESCAT classiﬁcations89 need to be
+considered (Supplementary Table S1, available at https://
+doi.org/10.1016/j.annonc.2021.09.019).
+Currently,
+new
+drugs (e.g. ADCs) are being evaluated in MBC that have
+documented activity across several subtypes and may
+require assessment of new biomarkers (e.g. HER2-low,
+HER3) once therapeutic efﬁcacy and biomarker validation
+have been completed.
+
+LONG-TERM IMPLICATIONS AND SURVIVORSHIP
+
+In MBC, regular assessments of disease status and therapy
+toxicities should include clinical assessments, blood tests,
+imaging and patient-reported outcomes (PROs). Principles
+of disease monitoring by imaging are discussed in the
+Staging and Risk Assessment section.
+
+Side-effects
+
+General principles. Decisions regarding the systemic treat-
+ment of MBC should be based on a balanced consideration
+of the predicted response to a particular treatment strategy
+and associated tolerability and AEs. Management of side-
+effects should be according to the respective ESMO
+CPGs.90 Particular attention must be paid to the incidence
+and risk of side-effects in speciﬁc populations, such as
+elderly patients and those with comorbidities, in order to
+ensure therapy adherence. Proactive symptom manage-
+ment and education helps to alleviate side-effects and im-
+proves QoL [I, A].
+PRO measures capture the patient experience and
+perceived impact of treatment and toxicity on health status.
+PROs include areas of HRQoL as well as patient satisfaction
+with care.91
+
+Further details regarding the management of common
+and
+therapy-speciﬁc
+toxicities
+can
+be
+found
+in
+the
+
+Supplementary TextdSection 6, available at https://doi.
+org/10.1016/j.annonc.2021.09.019.
+
+Recommendations
+
+ An
+interdisciplinary
+approach
+is
+critical,
+including
+specialised oncology and/or breast care nurses to
+proactively screen for and manage treatment-emergent
+toxicities.
+ Patients should be informed about treatment choices
+and
+side-effect
+proﬁles
+of
+recommended
+systemic
+treatments.
+ All treatment should include formal patient education
+regarding side-effect management [I, A].
+
+system shown in Supplementary Table S5, available at
+https://doi.org/10.1016/j.annonc.2021.09.019.94
+State-
+ments without grading were considered justiﬁed standard
+clinical practice by the authors.
+
+ACKNOWLEDGEMENTS
+
+MR is supported by an IH/NCI Cancer Center Support Grant
+[grant number P30 CQA008748] and the Breast Cancer
+Research Foundation. SL is supported by the National Breast
+Cancer Foundation of Australia Endowed Chair and the
+Breast Cancer Research Foundation, New York. Manuscript
+editing support was provided by Claire Bramley and Jennifer
+Lamarre (ESMO Guidelines staff) and Angela Corstorphine
+of Kstorﬁn Medical Communications Ltd (KMC); this support
+was funded by ESMO. Nathan Cherny, Chair of the ESMO-
+MCBS Working Group, Urani Dafni, ESMO-MCBS Working
+Group Member/Frontier Science Foundation Hellas and
+Giota Zygoura of Frontier Science Foundation Hellas, pro-
+vided review and validation of the ESMO-MCBS scores.
+Nicola Latino (ESMO Scientiﬁc Affairs staff) provided coor-
+dination and support of the ESMO-MCBS scores and Angela
+Corstorphine and Sian-Marie Lucas of KMC provided med-
+ical writing and editing support in the preparation of the
+ESMO-MCBS table; this support was funded by ESMO.
+
+FUNDING
+
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+
+DISCLOSURE
+
+FA reports receipt of research funding and has served as
+speaker/advisor (compensated to the hospital) for Roche,
+AstraZeneca, Daiichi Sankyo, Pﬁzer, Novartis and Eli Lilly.
+CHB reports grants/research support (to the institution)
+from Pﬁzer, Novartis, Amgen, AstraZeneca, Boehringer
+Ingelheim, GlaxoSmithKline (GSK), Roche/Genentech, Eli
+Lilly, Sanoﬁ, Taiho Pharmaceutical, Mylan, Merrimack,
+Merck, AbbVie, Astellas Pharma, BioMarin, Bristol-Myers
+Squibb (BMS), Daiichi Sankyo, Abraxis Biosciences, AB Sci-
+ence, Asana Biosciences, Medivation, Exelixis, ImClone
+Systems, LEO Pharma, Millennium, Merck KGaA, Shanghai
+Henlius Biotech, Polyphor and PharmaMar; ownership or
+stocks in Biomarker, Tummi and MEDSir; and advisory
+boards and consulting for Boehringer Ingelheim, GSK,
+Novartis, Pﬁzer, Roche/Genentech, Eisai, Bayer, Merck Sharp
+& Dohme (MSD), AstraZeneca, Zodiac, Eli Lilly and Sanoﬁ. JC
+has served as a consultant/advisor for Roche, Celgene,
+Cellestia, AstraZeneca, Seattle Genetics, Daiichi Sankyo,
+Erytech, Athenex, Polyphor, Eli Lilly, MSD, GSK, Leuko, Bio-
+asis,
+Clovis
+Oncology,
+Boehringer
+Ingelheim,
+Ellipses,
+Hibercell, BioInvent, Gemoab and Gilead; received hono-
+raria from Roche, Novartis, Celgene, Eisai, Pﬁzer, Samsung
+Bioepis, Eli Lilly, MSD and Daiichi Sankyo; received research
+funding to the institution from Roche, Ariad Pharmaceuti-
+cals, AstraZeneca, Baxalta GmbH/Servier Affaires, Bayer
+Healthcare, Eisai, Roche, Guardanth Health, MSD, Pﬁzer,
+
+honoraria from the European School of Oncology and MSD;
+non-renumerated membership of American Society for
+Clinical Oncology, American Society for Radiation Oncology,
+Arbeitsgemeinschaft Gynäkologische Onkologie, Arbeitsge-
+meinschaft Radiologische Onkologie, Deutsche Gesellschaft
+für Radioonkologie, Deutsche Gesellschaft für Senologie,
+European Society for Radiotherapy and Oncology and The
+Radiosurgery Society. WGK reports institutional research
+funding by the German Research Foundation and the
+medical faculty of LMU Munich; and serves as a non-
+compensated committee member of the European Organi-
+sation for Research and Treatment of Cancer and the
+European Society of Oncologic Imaging. SLoi reports
+research
+funding
+to
+her
+institution
+from
+Novartis,
+BMS, Merck, PUMA Biotechnologies, Eli Eli Lilly, Nektar
+Therapeutics, AstraZeneca, Roche-Genentech and Seattle
+Genetics;
+consultancy
+(not
+compensated)
+to
+Seattle
+Genetics, Novartis, BMS, Merck, AstraZeneca and Roche/
+Genentech; consultancy (paid to institution) to Aduro
+Biotech, Novartis, GSK, Roche/Genentech, AstraZeneca,
+Silverback
+Therapeutics,
+G1
+Therapeutics,
+PUMA
+Bio-
+technologies, Pﬁzer, Gilead Therapeutics, Seattle Genetics
+and BMS; and Scientiﬁc Advisory Board Member of Aka-
+mara Therapeutics. SLoibl reports honoraria for advisory
+boards (to institute) from Bayer, BMS, Eirgenix, GSK, Eli Lilly
+and Merck; honoraria for lecture (to institute) from Sam-
+sung; honoraria for advisory boards and lectures (to insti-
+tute) from Pierre Fabre and Prime/Medscape; grants and
+honoraria for advisory boards (to institute) from AbbVie and
+Celgene; grants and honoraria for advisory boards and
+lectures (to institute) from AstraZeneca; grants, non-
+ﬁnancial support and honoraria for advisory boards, lec-
+tures and medical writing (to institute) from Daiichi Sankyo,
+Novartis, Pﬁzer and Roche; grants, non-ﬁnancial support
+and honoraria for advisory boards and medical writing (to
+institute) from Immunomedics/Gilead, non-ﬁnancial sup-
+port and honoraria for advisory boards and medical writing
+(to institute) from PUMA Biotechnologies and SeaGen; and
+non-ﬁnancial support and honoraria for advisory boards (to
+institute) from Amgen, all outside the submitted work. In
+addition, SLoibl has patents EP14153692.0, EP21152186.9,
+EP19808852.8 and Digital Ki67 Evaluator pending and pat-
+ent EP15702464.7 issued, with royalties paid. SP-S reports
+honoraria and/or advisory board and/or speaker’s bureau
+and/or travel funding from Roche, Pﬁzer, Eli Eli Lilly,
+Novartis, AstraZeneca, MSD, Exact Sciences and Nanostring.
+Institutional research funding from Sharing Progress in
+Cancer Care and Pﬁzer. FP-L has received honoraria and/or
+advisory board and/or speaker’s bureau and/or travel
+funding from Roche, Pﬁzer, Eli Lilly, Novartis, AstraZeneca,
+MSD, SeaGen, Illumina, Exact Sciences, Myriad and Nano-
+string; and institutional research funding from AstraZeneca,
+Roche, MSD and Illumina. JR reports honoraria or research
+grants (to the institution) from Terumo, Sirtex Medical,
+Boston Scientiﬁc, Roche and AstraZeneca. MR reports
+honoraria from Research to Practice, Intellisphere and
+Physicians’ Education Resource; consultant or advisor
+for
+Artios
+Pharma
+(uncompensated),
+AstraZeneca
+
+3. Swain SM, Miles D, Kim SB, et al. Pertuzumab, trastuzumab, and
+docetaxel for HER2-positive metastatic breast cancer (CLEOPATRA):
+end-of-study results from a double-blind, randomised, placebo-
+controlled, phase 3 study. Lancet Oncol. 2020;21(4):519-530.
+4. Verma S, Miles D, Gianni L, et al. Trastuzumab emtansine for HER2-
+positive advanced breast cancer. N Engl J Med. 2012;367(19):1783-
+1791.
+5. Bardia A, Hurvitz SA, Tolaney SM, et al. Sacituzumab govitecan in
+metastatic triple-negative breast cancer. N Engl J Med. 2021;384(16):
+1529-1541.
+6. Murthy RK, Loi S, Okines A, et al. Tucatinib, trastuzumab, and capeci-
+tabine for HER2-positive metastatic breast cancer. N Engl J Med.
+2020;382(7):597-609.
+7. Cortes J, O’Shaughnessy J, Loesch D, et al. Eribulin monotherapy versus
+treatment of physician’s choice in patients with metastatic breast
+cancer (EMBRACE): a phase 3 open-label randomised study. Lancet.
+2011;377(9769):914-923.
+8. Gennari A, Stockler M, Puntoni M, et al. Duration of chemotherapy for
+metastatic breast cancer: a systematic review and meta-analysis of
+randomized clinical trials. J Clin Oncol. 2011;29(16):2144-2149.
+9. Biganzoli L, Battisti NML, Wildiers H, et al. Updated recommendations
+regarding the management of older patients with breast cancer: a joint
+paper from the European Society of Breast Cancer Specialists
+(EUSOMA) and the International Society of Geriatric Oncology (SIOG).
+Lancet Oncol. 2021;22(7):e327-e340.
+10. Tabernero J, Vyas M, Giuliani R, et al. Biosimilars: a position paper of
+the European Society for Medical Oncology, with particular reference
+to oncology prescribers. ESMO Open. 2016;1(6):e000142.
+11. Dafni U, Tsourti Z, Alatsathianos I. Breast Cancer Statistics in the Eu-
+ropean Union: incidence and survival across European Countries.
+Breast Care (Basel). 2019;14(6):344-353.
+12. Wojtyla C, Bertuccio P, Wojtyla A, et al. European trends in breast
+cancer mortality, 1980-2017 and predictions to 2025. Eur J Cancer.
+2021;152:4-17.
+13. Allemani C, Matsuda T, Di Carlo V, et al. Global surveillance of trends in
+cancer survival 2000-14 (CONCORD-3): analysis of individual records
+for 37513025patients diagnosed with one of 18 cancers from 322
+population -basedregistries in 71 countries. Lancet. 2018;391(10125):
+1023-1075.
+14. Malmgren JA, Mayer M, Atwood MK, et al. Differential presentation
+and survival of de novo and recurrent metastatic breast cancer over
+time: 1990-2010. Breast Cancer Res Treat. 2018;167(2):579-590.
+15. Hölzel D, Eckel R, Bauerfeind I, et al. Improved systemic treatment for
+early breast cancer improves cure rates, modiﬁes metastatic pattern
+and shortens post-metastatic survival: 35-year results from the Munich
+Cancer Registry. J Cancer Res Clin Oncol. 2017;143(9):1701-1712.
+16. Van Poznak C, Somerﬁeld MR, Bast RC, et al. Use of biomarkers to
+guide decisions on systemic therapy for women wth metastatic breast
+cancer: American Society of Clinical Oncology Clinical Practice Guide-
+line. J Clin Oncol. 2015;33(24):2695-2704.
+17. Cristofanilli M, Turner NC, Bondarenko I, et al. Fulvestrant plus pal-
+bociclib versus fulvestrant plus placebo for treatment of hormone-
+receptor-positive,
+HER2-negative
+metastatic
+breast
+cancer
+that
+progressed on previous endocrine therapy (PALOMA-3): ﬁnal analysis
+of the multicentre, double-blind, phase 3 randomised controlled trial.
+Lancet Oncol. 2016;17(4):425-439.
+18. Cardoso F, Paluch-Shimon S, Senkus E, et al. 5th ESO-ESMO interna-
+tional consensus guidelines for advanced breast cancer (ABC 5). Ann
+Oncol. 2020;31(12):1623-1649.
+19. Lee CI, Gold LS, Nelson HD, et al. Comparative effectiveness of imaging
+modalities to determine metastatic breast cancer treatment response.
+Breast. 2015;24(1):3-11.
+20. Accordino MK, Wright JD, Vasan S, et al. Use and costs of disease
+monitoring in women with metastatic breast cancer. J Clin Oncol.
+2016;34(24):2820-2826.
+21. Kosmin M, Padhani AR, Gogbashian A, et al. Comparison of whole-
+body MRI, CT, and bone scintigraphy for response evaluation of can-
+cer therapeutics in metastatic breast cancer to bone. Radiology.
+2020;297(3):622-629.
+
+factor receptor-2-negative advanced breast cancer: overall survival
+results from BOLERO-2y. Ann Oncol. 2014;25(12):2357-2362.
+41. Cook MM, Al Rabadi L, Kaempf AJ, et al. Everolimus plus exemestane
+treatment in patients with metastatic hormone receptor-positive
+breast cancer previously treated with CDK4/6 inhibitor therapy.
+Oncologist. 2021;26(2):101-106.
+42. Rozenblit M, Mun S, Soulos P, et al. Patterns of treatment with ever-
+olimus exemestane in hormone receptor-positive HER2-negative met-
+astatic breast cancer in the era of targeted therapy. Breast Cancer Res.
+2021;23(1):14.
+43. Chandarlapaty S, Chen D, He W, et al. Prevalence of ESR1 mutations in
+cell-free DNA and outcomes in metastatic breast cancer: a secondary
+analysis of the BOLERO-2 clinical trial. JAMA Oncol. 2016;2(10):1310-
+1315.
+44. Rugo HS, Seneviratne L, Beck JT, et al. Prevention of everolimus-related
+stomatitis in women with hormone receptor-positive, HER2-negative
+metastatic breast cancer using dexamethasone mouthwash (SWISH):
+a single-arm, phase 2 trial. Lancet Oncol. 2017;18(5):654-662.
+45. Jerusalem G,
+de Boer RH,
+Hurvitz S,
+et al.
+Everolimus plus
+exemestane vs everolimus or capecitabine monotherapy for estrogen
+receptor-positive, HER2-negative advanced breast cancer: the BOLERO-
+6 randomized clinical trial. JAMA Oncol. 2018;4(10):1367-1374.
+46. Gyawali B, de Vries EGE, Dafni U, et al. Biases in study design,
+implementation, and data analysis that distort the appraisal of clinical
+beneﬁt and ESMO-Magnitude of Clinical Beneﬁt Scale (ESMO-MCBS)
+scoring. ESMO Open. 2021;6(3):100117.
+47. Robson M, Im SA, Senkus E, et al. Olaparib for metastatic breast cancer
+in patients with a germline BRCA mutation. N Engl J Med. 2017;377(6):
+523-533.
+48. Litton JK, Rugo HS, Ettl J, et al. Talazoparib in patients with advanced
+breast cancer and a germline BRCA mutation. N Engl J Med.
+2018;379(8):753-763.
+49. Gennari A, Bruzzi P, Orlandini C, et al. Activity of ﬁrst-line epirubicin
+and paclitaxel in metastatic breast cancer is independent of type of
+adjuvant therapy. Br J Cancer. 2004;90(5):962-967.
+50. European Medicines Agency. EMA recommendations on DPD testing
+prior to treatment with ﬂuorouracil, capecitabine, tegafur and ﬂucy-
+tosine. 2020. Available at https://www.ema.europa.eu/en/news/ema-
+recommendations-dpd-testing-prior-treatment-ﬂuorouracil-capecitabi
+ne-tegafur-ﬂucytosine. Accessed July 1, 2021.
+51. Miles DW, Diéras V, Cortés J, et al. First-line bevacizumab in combi-
+nation with chemotherapy for HER2-negative metastatic breast cancer:
+pooled and subgroup analyses of data from 2447 patients. Ann Oncol.
+2013;24(11):2773-2780.
+52. Baselga J, Cortes J, Kim SB, et al. Pertuzumab plus trastuzumab plus
+docetaxel for metastatic breast cancer. N Engl J Med. 2012;366(2):109-
+119.
+53. Rimawi M, Ferrero JM, de la Haba-Rodriguez J, et al. First-line trastu-
+zumab plus an aromatase inhibitor, with or without pertuzumab, in
+human epidermal growth factor receptor 2-positive and hormone
+receptor-positive
+metastatic
+or
+locally
+advanced
+breast
+cancer
+(PERTAIN): a randomized, open-label phase II trial. J Clin Oncol.
+2018;36(28):2826-2835.
+54. Kaufman B, Mackey JR, Clemens MR, et al. Trastuzumab plus anas-
+trozole versus anastrozole alone for the treatment of postmenopausal
+women with human epidermal growth factor receptor 2-positive,
+hormone receptor-positive metastatic breast cancer: results from the
+randomized phase III TAnDEM study. J Clin Oncol. 2009;27(33):5529-
+5537.
+55. Yuan Z, Huang J-J, Hua Z, et al. Trastuzumab plus endocrine therapy or
+chemotherapy as ﬁrst-line treatment for metastatic breast cancer with
+hormone receptor-positive and HER2-positive: the SYSUCC-002 ran-
+domized clinical trial. J Clin Oncol. 2021;39(15_suppl):1003.
+56. Johnston SRD, Hegg R, Im SA, et al. Phase III, randomized study of dual
+human epidermal growth factor receptor 2 (HER2) blockade with
+lapatinib plus trastuzumab in combination with an aromatase inhibitor
+in postmenopausal women with HER2-positive, hormone receptor-
+positive
+metastatic
+breast
+cancer:
+ALTERNATIVE.
+J
+Clin
+Oncol.
+2018;36(8):741-748.
+
+74. Piccart-Gebhart MJ, Burzykowski T, Buyse M, et al. Taxanes alone or in
+combination with anthracyclines as ﬁrst-line therapy of patients with
+metastatic breast cancer. J Clin Oncol. 2008;26(12):1980-1986.
+75. Yardley DA, Coleman R, Conte P, et al. nab-Paclitaxel plus carboplatin or
+gemcitabine versus gemcitabine plus carboplatin as ﬁrst-line treatment
+of patients with triple-negative metastatic breast cancer: results from
+the tnAcity trial. Ann Oncol. 2018;29(8):1763-1770.
+76. Carrick S, Parker S, Wilcken N, et al. Single agent versus combination
+chemotherapy for metastatic breast cancer. Cochrane Database Syst
+Rev. 2005;(2):Cd003372.
+77. Bardia A, Messersmith WA, Kio EA, et al. Sacituzumab govitecan, a
+Trop-2-directed antibody-drug conjugate, for patients with epithelial
+cancer: ﬁnal safety and efﬁcacy results from the phase I/II IMMU-132-
+01 basket trial. Ann Oncol. 2021;32(6):746-756.
+78. Hurvitz SA, Tolaney SM, Punie K, et al. GS3-06. Biomarker evaluation in
+the phase 3 ASCENT study of sacituzumab govitecan versus chemo-
+therapy in patients with metastatic triple-negative breast cancer. Pre-
+sented at the San Antonio Breast Cancer Symposium, December 8-11
+2020. Virtual Meeting.
+79. Winer EP, Lipatov O, Im SA, et al. Pembrolizumab versus investigator-
+choice chemotherapy for metastatic triple-negative breast cancer
+(KEYNOTE-119): a randomised, open-label, phase 3 trial. Lancet Oncol.
+2021;22(4):499-511.
+80. Bachelot T, Filleron T, Bieche I, et al. Durvalumab compared to
+maintenance chemotherapy in metastatic breast cancer: the ran-
+domized
+phase
+II
+SAFIR02-BREAST
+IMMUNO
+trial.
+Nat
+Med.
+2021;27(2):250-255.
+81. Robson ME, Tung N, Conte P, et al. OlympiAD ﬁnal overall survival
+and tolerability results: olaparib versus chemotherapy treatment of
+physician’s choice in patients with a germline BRCA mutation and
+HER2-negative metastatic breast cancer. Ann Oncol. 2019;30(4):558-
+566.
+82. Diéras V, Han HS, Kaufman B, et al. Veliparib with carboplatin and
+paclitaxel in BRCA-mutated advanced breast cancer (BROCADE3): a
+randomised, double-blind, placebo-controlled, phase 3 trial. Lancet
+Oncol. 2020;21(10):1269-1282.
+83. Robson M, Ruddy KJ, Im SA, et al. Patient-reported outcomes in pa-
+tients with a germline BRCA mutation and HER2-negative metastatic
+breast cancer receiving olaparib versus chemotherapy in the OlympiAD
+trial. Eur J Cancer. 2019;120:20-30.
+84. Ettl J, Quek RGW, Lee KH, et al. Quality of life with talazoparib versus
+physician’s choice of chemotherapy in patients with advanced breast
+cancer and germline BRCA1/2 mutation: patient-reported outcomes
+from the EMBRACA phase III trial. Ann Oncol. 2018;29(9):1939-1947.
+85. Guckenberger M, Lievens Y, Bouma AB, et al. Characterisation and
+classiﬁcation of oligometastatic disease: a European Society for
+Radiotherapy and Oncology and European Organisation for Research
+and Treatment of Cancer consensus recommendation. Lancet Oncol.
+2020;21(1):e18-e28.
+86. Coleman R, Hadji P, Body JJ, et al. Bone health in cancer: ESMO Clinical
+Practice Guidelines. Ann Oncol. 2020;31(12):1650-1663.
+87. Le Rhun E, Guckenberger M, Smits M, et al. EANO-ESMO Clinical
+Practice Guidelines for diagnosis, treatment and follow-up of patients
+with brain metastasis from solid tumours. Ann Oncol. 2021;32(11):
+1332-1347.
+88. Le Rhun E, Weller M, Brandsma D, et al. EANO-ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up of patients with
+leptomeningeal
+metastasis
+from
+solid
+tumours.
+Ann
+Oncol.
+2017;28(suppl 4):iv84-iv99.
+89. Mateo J, Chakravarty D, Dienstmann R, et al. A framework to rank
+genomic alterations as targets for cancer precision medicine: the ESMO
+Scale for Clinical Actionability of Molecular Targets (ESCAT). Ann Oncol.
+2018;29(9):1895-1902.
+90. ESMO Clinical Practice Guidelines: supportive and palliative care.
+Available at https://www.esmo.org/guidelines/supportive-and-pallia
+tive-care. Accessed June 16, 2021.
+91. Turner-Bowker DM, Hao Y, Foley C, et al. The use of patient-reported
+outcomes in advanced breast cancer clinical trials: a review of the
+published literature. Curr Med Res Opin. 2016;32(10):1709-1717.
+
+94. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144 (adapted from: Gross PA, Barrett TL,
+Dellinger EP, et al. Purpose of quality standards for infectious diseases.
+Clin Infect Dis. 1994;1918:1421).
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1475
+
+BC mortality in Europe has been declining over the last
+three decades,12 there are still differences across various
+regions or countries. For women diagnosed with EBC, the 5-
+year survival probability is w96% in Europe.13 However,
+when MBC is diagnosed, the 5-year survival rate is in the
+range of 38%.13 While BC survival rates have increased in
+recent years, there were still w138 000 deaths from BC in
+Europe in 2018,11 and in terms of absolute numbers, MBC
+was still the leading cause of death from all cancers in
+women, accounting for w3.6% of all deaths in women and
+1.8% of all deaths in Europe in 2015.
+MBC after therapy for EBC tends to have a more
+aggressive tumour biology and a worse outcome compared
+with de novo MBC.14,15 In a retrospective cohort study
+covering the period 1990-2010,14 de novo MBC incidence
+rates
+remained
+constant
+whereas
+subsequent
+MBC
+decreased. Yet, 5-year disease-speciﬁc survival of de novo
+MBC improved over time from 28% to 55% whereas sub-
+sequent MBC worsened from 23% to 13%. Similar data were
+reported from the Munich Cancer Registry,15 with improved
+survival for patients diagnosed with EBC over the past three
+decades likely attributable to modern (neo)adjuvant thera-
+pies. Over the same period, there has been an increase in
+liver and central nervous system (CNS) metastases and a
+decline in bone metastases. Thus, improvements in EBC
+therapies seem to have led to an alteration in tumour
+biology and metastasis presentation in subsequent MBC,
+presumably resulting from a molecular selection process.
+Given the frequency of BC, the overall survival (OS) im-
+provements observed and the fact that clinical presentation
+and tumour biology of MBC after EBC therapy have become
+more aggressive, optimal ‘state-of-the-art’ management of
+MBC is essential to maintain and further improve outcomes
+of patients with MBC. Moreover, international guidelines
+may help to enable equality regarding the level of BC care,
+treatment options and outcomes across Europe and beyond.
+
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+
+A proposed algorithm for the diagnostic work-up of MBC is
+shown in Figure 1. Patients with newly diagnosed or
+recurrent MBC should have a biopsy, if technically feasible,
+to conﬁrm histology and to re-assess estrogen receptor
+(ER), progesterone receptor (PgR) and human epidermal
+growth factor receptor 2 (HER2) status [I, B]. Biopsies of
+bone metastases should be avoided, whenever possible,
+due to technical limitations of biomarker detection in
+decalciﬁed tissue. If there are important differences in ER/
+PgR and HER2 status between the primary tumour and
+recurrence, it is unknown which biological features should
+drive the treatment decision making. The decision should
+take into account the biological features of the disease at
+baseline, the degree of biomarker heterogeneity, the type
+of treatment received that could potentially induce a se-
+lection of clones resistant to a speciﬁc targeted therapy and
+the burden of the disease. The use of ET or anti-HER2
+therapy should be considered when ER/PgR or HER2 are
+positive in at least one biopsy, regardless of timing. The use
+
+Annals of Oncology
+A. Gennari et al.
+
+1476
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+ The interval between imaging and treatment start should
+be 4 weeks.
+ Evaluation of response should generally occur every 2-4
+months depending on disease dynamics, location, extent
+of metastasis and type of treatment [V, B].18
+
+ Disease monitoring intervals should not be shortened as
+there is no evidence of an OS beneﬁt but potential for
+emotional and ﬁnancial harm [IV, D].20 Less frequent
+monitoring
+is
+acceptable,
+particularly
+for
+indolent
+disease.
+ If progression is suspected, additional tests should be
+carried out in a timely manner irrespective of planned
+intervals [V, B].18
+
+Patients with newly diagnosed or recurrent MBC
+
+Biopsy of metastatic lesion to 
+conﬁ
+ rm diagnosis
+
+Assessments only where corresponding therapies are available: MSI [ESCAT I-C], TMB, NTRK [ESCAT I-C]b
+
+Optional assessments with potential to guide treatment: ESR1 (in ER+/HER2– tumours if further AI-based therapy is considered) 
+[ESCAT II-A]b, somatic BRCA mutations [ESCAT II-A]b, HER2-low status by IHC [ESCAT II-B]b
+
+Staging: history and physical examination, haematology, biochemistry, tumour markers, CT of the chest and abdomen 
+and bone scintigraphy (or PET-CT), brain imaging (symptomatic patients or according to subtype if the presence of CNS 
+metastases will alter the choice of therapy)
+
+Reassess biomarkers ER, PgR, HER2 
+[ESCAT I-A]a,b
+
+All patients
+Patients with 
+ER+/HER2– tumours
+Patients with TNBC 
+tumours
+
+PD-L1 by IHC [ESCAT I-A]b
+
+gBRCAm [ESCAT I-A] (PALB2
+assessment optional [ESCAT II-A])b
+
+Figure 1. Diagnostic work-up and staging of MBC.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+AI, aromatase inhibitor; CNS, central nervous system; CT, computed tomography; ER, estrogen receptor; ESCAT, ESMO Scale for Clinical Actionability of Molecular
+Targets; ESR1, estrogen receptor 1; gBRCAm, germline BRCA1/2 mutation; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; MBC,
+metastatic breast cancer; MSI, microsatellite instability; NTRK, neurotrophic tyrosine receptor kinase; PALB2, partner and localiser of BRCA2; PD-L1, programmed death-
+ligand 1; PET, positron emission tomography; PgR, progesterone receptor; PIK3CA, phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha; TMB, tumour
+mutation burden; TNBC, triple-negative breast cancer.
+a If there are important differences in ER/PgR and HER2 status between the primary tumour and recurrence, patients should be managed according to receptor status of
+the recurrent disease biopsy.
+b ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.89
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1477
+
+ Brain imaging should not be routinely carried out in all
+asymptomatic patients at initial MBC diagnosis or during
+disease monitoring. Patients with asymptomatic HER2-
+positive BC or TNBC have higher rates of brain metasta-
+ses (BMs) at initial MBC diagnosis, even as the ﬁrst site of
+recurrence. This may warrant subtype-oriented brain im-
+aging in asymptomatic patients with MBC if detection of
+CNS metastases will alter the choice of systemic therapy
+[V, C]. Randomised trials to determine the risks and
+beneﬁts
+of
+brain
+screening
+are
+still
+underway
+(NCT03881605).23
+
+ Symptomatic patients should always undergo brain im-
+aging, preferably with MRI [II, B].
+
+MANAGEMENT OF ADVANCED AND METASTATIC DISEASE
+
+Luminal breast cancer
+
+A proposed treatment algorithm for the management of
+hormone receptor (HR)-positive, HER2-negative MBC is
+shown in Figure 2.
+Premenopausal
+women
+may
+be
+treated
+as
+post-
+menopausal provided that they have ovarian function
+suppression (OFS) or ovarian ablation. Bilateral oophorec-
+tomy provides more rapid estrogen suppression than
+gonadotropin-releasing hormone agonists, the latter of
+which can cause a tumour ﬂare in the ﬁrst 2 weeks of
+treatment due to a short-term increase in hormone levels.
+Bilateral
+oophorectomy
+maybe
+preferable
+if
+a
+rapid
+response is required.
+Primary endocrine resistance is considered for patients
+who relapse during the ﬁrst 2 years of adjuvant ET or pro-
+gression of disease (PD) within the ﬁrst 6 months of ﬁrst-
+line ET for MBC. Secondary
+(acquired) resistance is
+deﬁned as relapse during adjuvant ET but after the ﬁrst 2
+years, relapse within 12 months of completing adjuvant ET
+or PD 6 months after initiating ET for MBC.24
+
+First-line treatment. CDK4/6 inhibitors combined with ET
+are the standard-of-care for ER-positive, HER2-negative
+MBC, with improved progression-free survival (PFS) and
+OS and a good toxicity proﬁle seen in several trials [I, A;
+ESMO-Magnitude of Clinical Beneﬁt Scale (ESMO-MCBS)
+v1.1 scores: 3-5].25-31 ET plus CDK4/6 inhibition yields
+similar or better efﬁcacy versus ChT32,33 and is associated
+with less toxicity, making it the preferred treatment unless a
+patient has imminent organ failure. Although there is little
+data on use of CDK4/6 inhibitors after progression on CDK4/
+6 inhibitors, rechallenge may be possible after a treatment-
+free interval of 12 months based on evidence regarding
+rechallenge with other therapies.
+CDK4/6 inhibitors are effective in de novo or recurrent
+MBC, in cases of primary or secondary endocrine resistance,
+in postmenopausal or premenopausal women [the latter
+with a luteinising hormone-releasing hormone (LH-RH)
+agonist] and in men (with an LH-RH agonist). For patients
+who did not relapse on an aromatase inhibitor (AI), or
+within 12 months of stopping adjuvant AI, a CDK4/6
+
+Annals of Oncology
+A. Gennari et al.
+
+1478
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+The SOLAR-1 phase III randomised, placebo-controlled
+trial evaluated the role of alpelisib, an oral inhibitor of the
+phosphoinositide 3-kinase-alpha (PI3Ka) isoform, in combi-
+nation with fulvestrant, for postmenopausal women and
+men who had been previously treated with an AI. In the
+PIK3CA-mutant cohort, alpelisib provided a PFS beneﬁt of
+11.0 versus 5.7 months [hazard ratio (HR) for progression or
+death
+0.65;
+95%
+conﬁdence
+interval
+(CI)
+0.50-0.85;
+P < 0.001]36; the median OS was 39.3 months for alpelisibe
+fulvestrant and 31.4 months for placeboefulvestrant (HR
+0.86; P ¼ 0.15).37 Toxicity was increased substantially in the
+alpelisib arm, especially hyperglycaemia, rash, gastrointes-
+tinal (GI) toxicity (nausea, vomiting, loss of appetite, muco-
+sitis, diarrhoea) and fatigue, which led to dose reductions/
+interruptions in w70% and discontinuations in 25% of
+
+ChT
+
+Fulvestranta
+
+(+ CDK4/6 inhibitor if not 
+used previously)
+
+Everolimus–exemestanea
+
+[I, B]
+or
+Everolimus–fulvestanta,b
+
+[II, B]
+
+If PIK3CAm+:
+fulvestrant–alpelisib 
+[I, B; MCBS 2; ESCAT I-A]c,d
+
+PD
+Somatic mutation testing
+(tissue or liquid)
+Germline BRCA1/2 testing + PALB2
+
+No risk of organ failure
+
+PD after several lines of ET ± targeted therapies
+
+Figure 2. Treatment of ER-positive/HER2-negative MBC.
+Purple: general categories or stratiﬁcation; turquoise: combination of treatments or other systemic treatments; white: other aspects of management; blue: systemic
+anticancer therapy.
+AI, aromatase inhibitor; CDK4/6, cyclin-dependent kinase 4 and 6; ChT, chemotherapy; EMA, European Medicines Agency; ER, estrogen receptor; ESCAT, ESMO Scale for
+Clinical Actionability of Molecular Targets; ESR1, estrogen receptor 1; ET, endocrine therapy; FDA, Food and Drug Administration; HER2, human epidermal growth factor
+receptor 2; m, mutation; MBC, metastatic breast cancer; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; OFS, ovarian function suppression; PALB2, partner and
+localiser of BRCA2; PARP, poly (ADP-ribose) polymerase; PD, progressive disease; PIK3CA, phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha.
+a OFS if the patient is premenopausal.
+b Preferred if the patient is ESR1 mutation positive [ESCAT score: II-A].d
+
+c ESMO-MCBS v1.193 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS
+Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-
+forms-v1.1).
+d ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.89
+
+e If relapse <12 months after end of adjuvant AI: fulvestranteCDK4/6 inhibitora; if relapse >12 months after end of adjuvant AI: AIeCDK4/6 inhibitora.
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1479
+
+CDK4/6 inhibitor plus ET. Although only 7% (n ¼ 20) of
+SOLAR-1 patients had been previously exposed to a CDK4/6
+inhibitor, the phase II trial, BYLieve, has shown efﬁcacy of
+alpelisib with ET (AI or fulvestrant) after CDK4/6 inhibitor
+use.38
+
+In the phase III BOLERO-2 trial, everolimuseexemestane
+signiﬁcantly
+improved
+median
+PFS
+versus
+placeboe
+exemestane (7.8 versus 3.2 months, HR 0.45) in patients
+who had progressed on a nonsteroidal AI,39 but there was
+no signiﬁcant OS or quality-of-life (QoL) beneﬁt.40 None of
+the patients enrolled in this trial had previously received
+CDK4/6 inhibitors, although retrospective analyses suggest
+that prior exposure to CDK4/6 inhibitor therapy may not
+impact survival outcomes for patients receiving ever-
+olimuseexemestane.41,42 In patients with tumours har-
+bouring an ESR1 mutation, substituting the exemestane
+backbone with fulvestrant is favoured [ESCAT score: II-A; off
+label].43 If everolimus is used, appropriate prophylaxis, such
+as dexamethasone oral solution, should be prescribed to
+prevent the incidence and severity of stomatitis.44
+
+In the BOLERO-6 trial comparing exemestaneeever-
+olimus with everolimus or capecitabine monotherapy,45
+
+everolimuseexemestane conferred a PFS beneﬁt over
+everolimus alone (HR 0.74; 90% CI 0.57-0.97), thereby
+supporting
+its
+continued
+use
+in
+an
+endocrine-based
+sequence [I, B; ESMO-MCBS v1.1 score: 2]. However, this
+isolated PFS beneﬁt may have been exaggerated by a high
+level of informative censoring.46 For patients unlikely to
+tolerate exemestaneeeverolimus, capecitabine is a good
+option since the PFS and OS for these agents are not
+signiﬁcantly different.45
+
+Third-line
+treatment
+and
+beyond.
+Considerations
+for
+treatment in the third-line setting and beyond should take
+into account sensitivity to previous treatments received,
+time to progression, gBRCAm status, tumour biology
+(including other germline and somatic alterations, if results
+are available) and mechanisms of resistance that may have
+arisen during previous treatments (a tumour biopsy or
+ctDNA analysis could be carried out, if feasible).
+For patients deemed endocrine sensitive, continuation of
+ET with agents not previously used in the metastatic setting
+may represent an option to delay time to ChT and achieve
+some clinical beneﬁt [III, B].
+For patients considered endocrine resistant where tar-
+geted agents have already been used or ruled out due to
+lack of therapeutically relevant molecular alterations, ChT
+should be considered [V, B].
+If ChT is indicated, single agents are generally preferred
+over combination strategies based on QoL considerations,
+except for patients who need a rapid response due to dis-
+ease burden, since a superior OS beneﬁt for combination
+strategies has not been demonstrated and they are gener-
+ally more toxic [II, A]. In gBRCAm carriers, PARP inhibitors
+are associated with an improved PFS and QoL, but not OS,
+compared with single-agent ChT [I, A; ESMO-MCBS v1.1
+score: 4; ESCAT score: I-A].47,48
+
+Annals of Oncology
+A. Gennari et al.
+
+1480
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+ PARP inhibitor monotherapy (olaparib or talazoparib)
+should be considered for patients with germline patho-
+genic BRCA1/2 mutations [I, A; ESMO-MCBS v1.1 score:
+4; ESCAT score: I-A] and as an option for those with so-
+matic pathogenic or likely pathogenic BRCA1/2 or germ-
+line PALB2 mutations.
+ At least two lines of endocrine-based therapy are
+preferred before moving to ChT.
+ In patients with imminent organ failure, ChT is a
+preferred option.
+
+Beyond second line
+
+ For patients with endocrine-sensitive tumours, continua-
+tion of ET with agents not previously received in the met-
+astatic setting may represent an option [III, B].
+ Patients with tumours that are endocrine resistant
+should be considered for ChT [V, B].
+ Sequential single-agent ChT is generally preferred over
+combination strategies. In patients where a rapid
+response is needed due to imminent organ failure, com-
+bination ChT is preferred [II, A].
+ Available drugs for single-agent ChT include anthracy-
+clines, taxanes, capecitabine, eribulin, vinorelbine, plati-
+nums and other agents.
+ Rechallenge with anthracyclines or taxanes is feasible in
+patients with a DFI 12 months. If available, the use of
+liposomal anthracyclines or protein-bound paclitaxel may
+be considered for the rechallenge [II, B].
+ The combination of a taxane or capecitabine with beva-
+cizumab, if available, is an option for the ﬁrst line of ChT
+[I, C; ESMO-MCBS v1.1 score: 2].
+ If capecitabine is used, patients should undergo germline
+variant testing for the lack of enzyme, DPD, before start-
+ing treatment.
+ ChT should generally be continued until PD or intolerable
+toxicity (except for anthracyclines where the cumulative
+limit needs to be taken into account) [II, B].
+ The optimal sequence of therapy in MBC has not been
+established. Available options should be discussed with
+the patient [I, A].
+
+HER2-positive breast cancer
+
+First-line treatment. A proposed treatment strategy for
+the ﬁrst- and second-line treatment of HER2-positive
+MBC is shown in Figure 3. The CLEOPATRA trial estab-
+lished the gold standard in the ﬁrst-line setting: adding
+pertuzumab to docetaxel and trastuzumab increased
+median PFS by >6 months (18.5 versus 12.4 months with
+and without pertuzumab, respectively, HR 0.62; 95% CI
+0.51-0.75 months; P < 0.001) [I, A; ESMO-MCBS v1.1
+score: 4; ESCAT score: I-A].52 At a median follow-up of >8
+years, there was a 16.3-month improvement in median
+OS (HR 0.69; 95% CI 0.58-0.82 months) associated with
+the addition of pertuzumab to trastuzumabedocetaxel.3
+
+Docetaxel should be given for at least six cycles, if
+tolerated, followed by maintenance trastuzumabepertu-
+zumab until progression [I, A]. An alternative taxane may
+substitute docetaxel [II, A].
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1481
+
+second-line therapy in patients who have received two
+prior anti-HER2-based regimens if one of these was in the
+EBC setting under its current EMA license approval.
+Data from the randomised phase II HER2CLIMB trial
+support the activity of tucatinib, a HER2-selective tyrosine
+kinase inhibitor (TKI) with minimal inhibition of epidermal
+growth factor receptor, in combination with capecita-
+bineetrastuzumab for patients with BMs.61 Although this
+trial was conducted in patients who had previously
+received trastuzumab and T-DM1, the PFS and OS beneﬁts
+demonstrated in patients with active or stable CNS me-
+tastases
+(HRs
+0.32
+and
+0.58,
+respectively)
+warrant
+consideration of its second-line use for selected patients
+with known BMs [II, A; ESMO-MCBS v1.1 score: 3; ESCAT
+score: I-A].
+
+Third-line treatment and beyond. Several drugs have
+been approved for use in patients with trastuzumab-,
+
+Patients with HER2+ MBC
+
+1st-line treatment
+
+HR–
+HR+
+
+ChT 
+contraindicated
+
+No ChT
+contraindications
+
+ChT 
+contraindicated
+
+No ChT
+contraindications
+
+Trastuzumab 
+(± pertuzumab) 
++ ET
+[II, B]
+
+Trastuzumab– 
+pertuzumab until 
+progression 
+[II, B]
+
+Docetaxel [or 
+paclitaxel (II, A)] 
++ trastuzumab– 
+pertuzumab 
+≥6 cycles [I, A; 
+MCBS 4; ESCAT 
+I-A]a,b followed 
+by trastuzumab– 
+pertuzumab–ET 
+until progression
+[I, A]
+
+Docetaxel [or 
+paclitaxel (II, A)] 
++ trastuzumab– 
+pertuzumab 
+≥6 cycles 
+[I, A; MCBS 4; 
+ESCAT I-A]a,b
+
+followed by 
+pertuzumab– 
+trastuzumab 
+until progression 
+[I, A]
+
+Figure 3. First- and second-line treatment of HER2-positive MBC.
+Purple: general categories or stratiﬁcation; red: surgery; turquoise: combination of treatments or other systemic treatments; green: RT; white: other aspects of
+management; blue: systemic anticancer therapy.
+BM, brain metastasis; ChT, chemotherapy; CNS, central nervous system; EMA, European Medicines Agency; ESCAT, ESMO Scale for Clinical Actionability of Molecular
+Targets; ET, endocrine therapy; FDA, Food and Drug Administration; HER2, human epidermal growth factor receptor 2; HR, hormone receptor; MBC, metastatic breast
+cancer; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; PD, progressive disease; RT, radiotherapy; SRT, stereotactic radiotherapy; T-DM1, ado-trastuzumab emtansine;
+WBRT, whole brain radiotherapy.
+a ESMO-MCBS v1.193 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS
+Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-
+forms-v1.1).
+b ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.89
+
+c Not FDA approved for use in second line.
+d Keep on current systemic therapy unless PD outside CNS.
+
+Annals of Oncology
+A. Gennari et al.
+
+1482
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+T-DM1 is also a third-line treatment option for those who
+have not received this agent as second-line therapy [I, A;
+ESMO-MCBS v1.1 score: 4; ESCAT score: I-A].
+Given the introduction of the new available anti-HER2
+drugs, the role of lapatinib is unclear but it remains one
+of the possible therapy options in HER2-positive MBC. In
+TKI-naive patients, lapatinibetrastuzumab improves PFS
+(HR 0.73; P ¼ 0.008) with a trend towards improved OS (HR
+0.75; P ¼ 0.106) compared with lapatinib alone [I, B; ESMO-
+MCBS v1.1 score: 4; ESCAT score: I-A].65
+
+Neratinib, an irreversible pan-HER TKI, is approved by the
+Food and Drug Administration (FDA) in patients with
+
+Local intervention 
+indicatedf
+
+Active BMs
+No, unknown or 
+stable BMs
+
+Local intervention not 
+indicated
+
+3rd-line treatment 
+and beyond
+
+1-10 BMs, 
+favourable 
+prognostic factors
+
+>10 BMs, 
+unfavourable 
+prognostic factors
+
+Resection 
+[II, B]
+
+SRT 
+[II, B]
+WBRT
+[II, B]
+
+SRT
+For 1-4 BMs [I, A]
+For 5-10 BMs [II, B]
+
+Tucatinib–capecitabine–
+trastuzumab
+[II, A; MCBS 3;
+ESCAT I-A]b,c
+
+Trastuzumab deruxtecan
+[II, A; MCBS 2;
+ESCAT I-A]b,c,g
+
+Patients with HER2+ MBC
+
+Figure 4. Third-line and beyond treatment of HER2-positive MBC.
+Purple: general categories or stratiﬁcation; red: surgery; turquoise: combination of treatments or other systemic treatments; green: RT; white: other aspects of
+management; blue: systemic anticancer therapy.
+BM, brain metastasis; ChT, chemotherapy; CNS, central nervous system; EMA, European Medicines Agency; ESCAT, ESMO Scale for Clinical Actionability of Molecular
+Targets; FDA, Food and Drug Administration; HER2, human epidermal growth factor receptor 2; MBC, metastatic breast cancer; MCBS, ESMO-Magnitude of Clinical
+Beneﬁt Scale; PD, progressive disease; RT, radiotherapy; SRT, stereotactic radiotherapy; T-DM1, ado-trastuzumab emtansine; WBRT, whole brain radiotherapy.
+a There are no data for any of these combinations after tucatinib- and/or trastuzumab deruxtecan-based therapy.
+b ESMO-MCBS v1.193 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS
+Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-
+forms-v1.1).
+c ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.89
+
+d FDA approved, not EMA approved.
+e If not received as second-line therapy.
+f Keep on current systemic therapy unless PD outside CNS.
+g If not previously used, including all other drugs that are also a second-line treatment option.
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1483
+
+improved with margetuximab (5.8 versus 4.9 months; HR
+0.76; P ¼ 0.03), but no signiﬁcant OS beneﬁt was demon-
+strated [I, B; ESMO-MCBS v1.1 score: 2; ESCAT score: I-A;
+FDA approved, not EMA approved]. An exploratory analysis
+suggested that the PFS beneﬁt is restricted to patients with
+an F-allele for the Fc-gamma receptor IIIA gene.67
+
+Continued HER2 blockade beyond disease progression is
+considered standard clinical practice. If the anti-HER2
+therapies discussed in the preceding text have been
+exhausted, are not considered suitable or are not available,
+sequential trastuzumab-based strategies (in combination
+with different ChTs) should be considered [III, A].
+
+Recommendations
+
+First-line treatment
+
+ Standard ﬁrst-line treatment of HER2-positive MBC
+should be pertuzumabetrastuzumabedocetaxel regard-
+less of HR status [I, A; ESMO-MCBS v1.1 score: 4; ESCAT
+score: I-A].
+ Docetaxel should be given for at least six cycles, if toler-
+ated, followed by maintenance pertuzumabetrastuzu-
+mab until progression [I, A].
+ An alternative taxane (paclitaxel, nab-paclitaxel) may be
+substituted for docetaxel [II, A].
+ ET may be added to pertuzumabetrastuzumab mainte-
+nance
+after completion
+of ChT
+for
+HER2-positive,
+HR-positive tumours. OFS should also be added for
+pre- and perimenopausal women.
+ If ChT is contraindicated in patients with HER2-positive,
+HR-negative BC, HER2-targeted therapy without ChT
+(e.g. trastuzumab or trastuzumabepertuzumab) may
+be used; if taxane ChT is contraindicated, a less toxic
+ChT partner (e.g. capecitabine or vinorelbine) may be
+considered [III, C].
+ In selected cases of HER2-positive, HR-positive BC where
+the patient is not suitable for ﬁrst-line ChT, ET (e.g. an AI)
+in combination with an HER2-targeted therapy, such as
+trastuzumab,54,55 trastuzumabepertuzumab,53 trastuzu-
+mabelapatinib56 or lapatinib,57 may be recommended
+[II, B].
+ The use of single-agent ET without HER2-targeted ther-
+apy in HER2-positive, HR-positive MBC is not routinely
+recommended unless comorbidities (e.g. cardiac disease)
+preclude the safe use of HER2-directed therapies [III, C].
+ It is suggested that patients with metastatic recurrence
+within 12 months of receiving adjuvant trastuzumabe
+pertuzumab should follow second-line therapy recom-
+mendations [II, B].
+
+Second-line treatment
+
+ Trastuzumab deruxtecan is the preferred second-line
+therapy after progression on a taxane and trastuzumab
+[I, A].
+ T-DM1 is a second-line treatment option after progres-
+sion on a taxane and trastuzumab in cases where trastu-
+zumab deruxtecan is not available [I, A; ESMO-MCBS v1.1
+score: 4; ESCAT score: I-A].
+
+Annals of Oncology
+A. Gennari et al.
+
+1484
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+nab-paclitaxel70 whereas IMpassion131 evaluated atezolizu-
+mab plus paclitaxel.71 IMpassion130 had co-primary end-
+points of PFS and OS in the intention-to-treat (ITT)
+population and had a hierarchal design that allowed for
+formal evaluation of OS in the PD-L1-positive population only
+if the OS in the ITT population was signiﬁcantly improved by
+the addition of atezolizumab. In the ITT population, atezoli-
+zumab provided a PFS beneﬁt of 7.2 versus 5.5 months with
+a HR of 0.8 (95% CI 0.69-0.92; P ¼ 0.002). In the PD-L1-
+positive group, atezolizumab provided a PFS beneﬁt of 7.5
+versus 5 months with an HR of 0.62 (95% CI 0.49-0.78; P <
+0.001). In the ITT population, there was no signiﬁcant beneﬁt
+in OS with the addition of atezolizumab; median OS was 21.3
+versus 17.6 months (HR 0.84; 95% CI 0.69-1.02; P ¼ 0.08).
+However, despite the hierarchical statistical design, an anal-
+ysis in the PD-L1-positive population was conducted, which
+showed an OS of 25 versus 15.1 months favouring the
+
+Patients with mTNBC
+
+Search theragnostic markers
+
+PD-L1+
+gBRCAm
+PD-L1–, 
+gBRCAm-wild-type
+
+Atezolizumab–nab-paclitaxel 
+[II, A; MCBS 3; ESCAT I-A]a,b,e,f 
+
+or 
+Pembrolizumab–ChT 
+[I, A; MCBS 3; ESCAT I-A]a,c-f
+
+ChT-based therapy
+(platinumg preferred
+over taxane) [I, A]
+
+PARP inhibitor-based
+therapy (preferred
+over ChT) [I, A; MCBS
+4; ESCAT I-A]e,f
+
+Sacituzumab govitecan (preferred) [I, A; MCBS 4]c,e or ChT
+
+ChT: eribulin, capecitabine or vinorelbine
+
+Figure 5. Treatment of mTNBC.
+Purple: general categories or stratiﬁcation; turquoise: combination of treatments or other systemic treatments; white: other aspects of management; blue: systemic
+anticancer therapy.
+ChT, chemotherapy; EMA, European Medicines Agency; ESCAT, ESMO Scale for Clinical Actionability of Molecular Targets; FDA, Food and Drug Administration; gBRCAm,
+germline BRCA1/2 mutation; ICI, immune checkpoint inhibitor; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; mTNBC, metastatic triple-negative breast cancer; PARP,
+poly (ADP-ribose) polymerase; PD-L1, programmed death-ligand 1.
+a May be considered as monotherapy in further lines in case of high PD-L1 positivity and no previous exposure to ICI.
+b EMA approved, not FDA approved.
+c FDA approved, not EMA approved.
+d ChT physician’s choice of nab-paclitaxel, paclitaxel or gemcitabine/carboplatin.
+e ESMO-MCBS v1.193 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS
+Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-
+forms-v1.1).
+f ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.89
+
+g If not used previously.
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1485
+
+potential reasons, such as patient heterogeneity, paclitaxel
+backbone (given the fact that paclitaxel is usually already
+given in the EBC setting) or the unusually good outcome of
+the control group, played a role in the differing results
+between these two trials.
+In KEYNOTE-355, enrolled patients were similar to the
+IMpassion130 population, except that a 6-month DFI
+following adjuvant therapy was permitted as opposed to 12
+months. In this study, the primary endpoint was considered
+only in PD-L1-positive patients, deﬁned as combined posi-
+tive score (CPS) 10. The primary endpoint was met
+with PFS signiﬁcantly improved with the addition of
+pembrolizumab to ChT (nab-paclitaxel, paclitaxel or gemci-
+tabineecarboplatin) (9.7 versus 5.6 months; HR 0.65; CI
+0.49-0.86; P ¼ 0.0012) in patients with PD-L1-positive (CPS
+10) tumours.69 In the ﬁnal analysis, pembrolizumab plus
+ChT was also associated with a signiﬁcant OS beneﬁt (23.0
+versus 16.1 months; HR 0.73; 95% CI 0.55-0.95; P ¼ 0.0093)
+and a greater ORR (52.7% versus 40.8%), disease control
+rate (65.0% versus 54.4%) and DoR (12.8 versus 7.3 months)
+in patients with PD-L1-positive (CPS 10) tumours. The PFS
+beneﬁt of pembrolizumab was consistent with prior re-
+sults.72 Based on these data, it is reasonable to consider
+pembrolizumabeChT in patients with de novo advanced/
+metastatic disease or disease that has progressed at least
+6 months after completion of (neo)adjuvant ChT in
+tumours with PD-L1 expression CPS 10 [I, A; ESMO-MCBS
+v1.1 score: 3; ESCAT score: I-A; FDA approved, not EMA
+approved].
+Interestingly, both KEYNOTE-355 and IMpassion130 had
+similar HRs for OS effect in their PD-L1-positive populations,
+despite the different PD-L1 assay, ChT backbone and ICI
+agent. However, these three studies also highlight the dif-
+ﬁculties regarding PD-L1 assays (which are linked to
+different pharmaceutical companies), which one to use and
+the role of ICIs in combination with ChT in the case of a
+short DFI (i.e. <6 months).
+
+gBRCAm mTNBC. Carboplatin may be considered as a su-
+perior treatment option to docetaxel, since median PFS was
+improved but only by 2.6 months without an OS beneﬁt.73
+
+PARP inhibitors are recommended [I, A; ESMO-MCBS v1.1
+score: 4; ESCAT score: I-A] (see section on Hereditary BC).
+
+PD-L1-negative and gBRCA-wild-type mTNBC. The initial
+treatment is ChT. Several options are possible according to
+previous treatment exposure in the EBC setting, DFI and
+disease presentation. If the patient has no prior exposure to
+anthracyclines and no medical contraindications, the op-
+tions are anthracyclines or taxanes as monotherapy,74 or
+various
+combinations
+incorporating
+these
+two
+drugs
+together or not. Nab-paclitaxelecarboplatin is also a
+valid option since it demonstrated superiority in PFS
+compared with nab-paclitaxelegemcitabine or carboplatine
+gemcitabine.75
+
+Regarding the question of single-agent versus combina-
+tion ChT, although a Cochrane review found that combi-
+nation ChT was associated with a longer OS when compared
+
+Annals of Oncology
+A. Gennari et al.
+
+1486
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+not appear to be any deleterious effect on this endpoint
+using ICI monotherapy versus ChT in the ITT population. In
+addition, the beneﬁt of pembrolizumab compared with
+single-agent ChT increased depending on CPS, with a sig-
+niﬁcant OS beneﬁt versus ChT seen in cases of CPS 20.79
+
+Therefore, it seems reasonable to discuss the option of
+pembrolizumab
+treatment
+for
+patients
+with
+tumours
+strongly positive for PD-L1 if they have not been exposed to
+ICI therapy in a previous line or do not have access to a
+clinical trial.
+
+Maintenance. No phase III study has speciﬁcally addressed
+the question of maintenance therapy in TNBC. Although a
+longer duration of ChT is associated with a better outcome
+in MBC, it also increases the risk of toxicity.8 However, for
+patients who have received an initial ChTeICI combination,
+ICI maintenance is acceptable in the absence of safety is-
+sues. The place of ICI as a maintenance treatment after
+induction ChT alone is still an area of debate, although
+some preliminary data are encouraging (see Supplementary
+Table S3, available at https://doi.org/10.1016/j.annonc.
+2021.09.019).80 Similarly, bevacizumab maintenance may
+be used after an initial bevacizumabetaxane or bev-
+acizumabecapecitabine combination.
+
+Recommendations
+
+First-line treatment
+
+ If PD-L1 positive, the preferred option is ChT in combina-
+tion with an ICI.
+
+B In case of PD-L1 immune cell positivity (Ventana
+SP142), atezolizumab plus nab-paclitaxel where the
+DFI is 12 months in countries where this indication
+is approved [II, A; ESMO-MCBS v1.1 score: 3; ESCAT
+score: I-A; EMA approved, not FDA approved].
+
+B In case of CPS 10, pembrolizumab plus paclitaxel,
+nab-paclitaxel or carboplatinegemcitabine where the
+DFI is 6 months [I, A; ESMO-MCBS v1.1 score: 3;
+ESCAT score: I-A; FDA approved, not EMA approved].
+ If gBRCAm and PD-L1 negative, the preferred options are
+olaparib or talazoparib [I, A; ESMO-MCBS v1.1 score: 4;
+ESCAT score: I-A] or ChT with carboplatin [II, A] (see
+following text).
+ If PD-L1 negative and gBRCA-wild-type, the preferred op-
+tion depends on previous treatment exposure, disease
+presentation, DFI and patient considerations.
+
+B Taxane monotherapy is the most frequent option.
+
+B Anthracyclines are an option in cases of no prior expo-
+sure or if rechallenge is possible.
+
+B In case of imminent organ failure, combination ther-
+apy is preferred based on a taxane and/or anthracy-
+cline combination and including bevacizumab (ﬁrst
+line only) if available.
+
+Progression after anthracyclines and taxanes
+
+ Sacituzumab (if available) is the preferred treatment op-
+tion after taxanes [I, A; ESMO-MCBS v1.1 score: 4; FDA
+approved, not EMA approved].
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1487
+
+Further details regarding the management of hereditary
+BC can be found in the Supplementary TextdSection 3,
+available at https://doi.org/10.1016/j.annonc.2021.09.019.
+
+Recommendations
+
+ Patients
+with
+HER2-negative
+MBC
+and
+germline
+pathogenic or likely pathogenic variants in BRCA1 or
+BRCA2 should be offered treatment with a PARP
+inhibitor (olaparib or talazoparib), independent of HR
+status, as an alternative to ChT [I, A; ESMO-MCBS v1.1
+score: 4; ESCAT score: I-A].
+ Prior treatment with anthracyclinesetaxanes should not
+be required before offering patients with MBC and
+gBRCAm treatment with a PARP inhibitor; nor should
+HR-positive patients be required to demonstrate com-
+plete endocrine resistance [I, D].
+ There is insufﬁcient evidence to determine the optimal
+sequencing of PARP inhibitors with other active treat-
+ments such as ChTeICI combinations in mTNBC or ET
+and targeted therapy combinations in HR-positive dis-
+ease [I, A].
+ Patients who may be considered for treatment with a
+PARP inhibitor should be offered genetic testing for
+pathogenic variants in BRCA1 and BRCA2 regardless of
+age, family history or BC subtype [I, A].
+
+Site-speciﬁc management
+
+Details regarding the management of primary stage IV BC,
+oligometastatic disease (OMD), bone metastases, BMs and
+leptomeningeal metastases (LMs) can be found in the
+Supplementary TextdSection 4, available at https://doi.
+org/10.1016/j.annonc.2021.09.019. A proposed treatment
+algorithm for the management of OMD is shown in
+Figure 6.
+
+Recommendations
+
+Primary stage IV disease
+
+ For patients with newly diagnosed stage IV BC and an
+intact primary tumour, therapeutic decisions should ideally
+be discussed in a multidisciplinary context [II, B].
+ LRT of the primary tumour in the absence of symptom-
+atic local disease does not lead to an OS beneﬁt and is
+thus not routinely recommended [II, D].
+ In patients with local symptoms caused by the primary
+tumour or metastatic disease, the use of local treatment
+modalities should be evaluated [II, A].
+ Surgery of the primary tumour may be considered for
+patients with bone-only metastasis, HR-positive tu-
+mours, HER2-negative tumours, patients <55 years, pa-
+tients with OMD and those with a good response to
+initial systemic therapy [II, B].
+
+OMD
+
+ The dynamics in chronic metastatic conditions should be
+reviewed
+to
+identify
+induced/recurrent
+OMD.85
+
+Annals of Oncology
+A. Gennari et al.
+
+1488
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+ LMs should be treated according to the recommenda-
+tions outlined in the EANO-ESMO CPG for the manage-
+ment of patients with LMs from solid tumours.88
+
+New drugs
+
+Recent advances and emerging therapies for MBC are
+described in the Supplementary TextdSection 5, available
+at https://doi.org/10.1016/j.annonc.2021.09.019.
+
+PERSONALISED MEDICINE
+
+In MBC, standard therapies are personalised based on
+biomarkers, as described in the respective sections. In
+addition, there are now several tissue and site-agnostic
+approvals. For example, both larotrectinib [ESMO-MCBS
+v1.1 score: 3; ESCAT score: I-C] and entrectinib [ESMO-
+
+Patients with a suspicion of OMD
+
+Patients with a diagnosis of OMDa
+
+Biopsy conﬁ
+ rmation (when appropriate)
+Systemic imaging staging, preferably with PET scan
+
+MDT discussion
+Informed discussion with patient, aligning expectations
+
+Continue systemic treatment when appropriateb
+
+Consider site of metastases (CNS, bone, visceral, etc.) as 
+they may require different approaches
+Consider management of the primary tumour and axilla in 
+patients with synchronous OMD
+Consider systemic treatment to document response as a 
+ﬁ
+ rst approach
+Consider local approach (surgery, RT, RFA, etc.)
+
+Figure 6. Treatment of OMD.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CNS, central nervous system; MDT, multidisciplinary team; OMD, oligometastatic
+disease; PET, positron emission tomography; RFA, radiofrequency ablation; RT,
+radiotherapy.
+a Consider elements in current deﬁnitions, i.e. limited or low-volume metastatic
+disease; up to ﬁve lesions in total, not necessarily in the same organ; all
+potentially amenable to receive local treatment.
+b The duration of systemic treatment remains a topic of debate.
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1489
+
+ Careful assessment of side-effects should occur at each
+visit. Electronic PROs may be useful in this context.
+ QoL assessments should be incorporated into the evalu-
+ation of treatment efﬁcacy.
+ Dose reduction and delay are effective strategies to
+manage toxicity in advanced disease [I, A].
+
+Palliative care
+
+Palliative care is an area of high importance in oncology and
+ESMO has published several CPGs in this ﬁeld which also
+apply to the management of patients with MBC.90 Palliative
+care should be integrated early and offered both in an
+inpatient and an outpatient setting.
+
+General principles of care. For patients with MBC, median
+OS is increasing with the introduction of new treatments
+and patients are more likely to experience metastases in
+many areas of the body.92 As well as receiving the best
+available treatment, patients should be offered optimal
+symptom control, psychological, social and spiritual sup-
+port. Many areas of care need to be managed, including
+pain, dyspnoea, cachexia, fatigue, depression and anxiety,
+which should also consider comorbidities, previous treat-
+ments, age and patient preferences. Shared decision making
+between the patient and health care professionals, as well
+as good communication and relationship building with the
+patient, family members and caregivers, is therefore para-
+mount to ensure a mutual understanding of treatment ex-
+pectations and goals.
+The emotional toll of caring for patients who are dying
+also has an impact on health care staff, and processes
+should be in place to support their mental health, enabling
+them to continue to provide sensitive and effective care.
+
+Patient perspective
+
+Insights into the patient perspective of an MBC diagnosis
+and
+treatment
+can
+be
+found
+in
+the
+Supplementary
+TextdSection 7, available at https://doi.org/10.1016/j.
+annonc.2021.09.019.
+
+METHODOLOGY
+
+This CPG was developed in accordance with the ESMO
+standard operating procedures for CPGs development
+(http://www.esmo.org/Guidelines/ESMO-Guidelines-Metho
+dology). The relevant literature has been selected by the
+expert authors. An ESMO-MCBS table with ESMO-MCBS
+scores is included in Supplementary Table S4, available
+at
+https://doi.org/10.1016/j.annonc.2021.09.019.
+ESMO-
+MCBS v1.193 was used to calculate scores for new thera-
+pies/indications
+approved
+by
+the
+EMA
+and/or
+the
+FDA (https://www.esmo.org/Guidelines/ESMO-MCBS). The
+scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee.
+The FDA/EMA approval status of new therapies/indications
+is correct at the time of writing this CPG. ESCAT scores have
+been deﬁned by the authors.89 Levels of evidence and
+grades of recommendation have been applied using the
+
+Annals of Oncology
+A. Gennari et al.
+
+1490
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+Piqur Therapeutics, Puma C and Queen Mary University of
+London; owns stock, patents and intellectual property for
+MedSIR; and received travel, accommodation and expenses
+from Roche, Novartis, Eisai, Pﬁzer and Daiichi Sankyo. GC
+has served as consultant or advisor for Roche, Eli Lilly and
+BMS; served on a speaker’s bureau for Roche, Pﬁzer and Eli
+Lilly; received travel funding from Pﬁzer and Roche; and
+received honoraria from Roche, Pﬁzer, Eli Lilly, Novartis,
+AstraZeneca and SeaGen, all outside the submitted work.
+EdA reports honoraria and/or advisory boards for Roche/
+Genentech, Novartis, Seattle Genetics, Zodiacs, Libbs and
+Pierre Fabre and Eli Lilly; travel grants from Roche/Gen-
+entech and GSK/Novartis; and research grants for his
+institute from Roche/Genentech, AstraZeneca, Novartis and
+Servier. AD reports research funding to institute from
+Genentech, Novartis, Pﬁzer and Calithera. RD reports
+research funding from AstraZeneca; and honoraria for
+consultancy/advisory board participation from AstraZeneca,
+Eisai, Eli Lilly, Novartis, Pﬁzer and Roche. DF reports hono-
+raria for participation in symposia from Roche. AG reports
+honoraria for advisory boards from AstraZeneca, Daiichi
+Sankyo, Eisai, Eli Lilly, Novartis, Pﬁzer and Roche; honorar-
+ia for lectures from Eisai and Eli Lilly; and honoraria for
+expert testimony from Gentili. JG has served as a consul-
+tant/advisor for AstraZeneca, Daiichi Sankyo, Eisai, Exact
+Science, Eli Lilly, Merck, Novartis, Pﬁzer, Pierre Fabre,
+Roche/Genentech and Seattle Genetics; received honoraria
+from AGM communication, Amgen, AstraZeneca, Daiichi
+Sankyo, Decision Santé, Edimark, Eisai, Exact Science,
+Kephren, Eli Lilly, Merck, Novartis, Pﬁzer, Pierre Fabre,
+Roche/Genentech and Seattle Genetics; received research
+funding to the institution from Eisai, Exact Science and
+Roche/Genentech; is an ABC Global Alliance member; has a
+leadership role in AROMe and Nice St Paul de Vence Cours;
+and is involved in educational programmes for ESO. NH
+reports honoraria for lectures, advisory boards and/or
+personal fees from Amgen, AstraZeneca, Daiichi Sankyo, Eli
+Lilly, MSD, Novartis, Pﬁzer, Pierre Fabre, Roche, Sandoz and
+SeaGen; and minority ownership interest in the West
+German Study Group. SAH reports contracted research paid
+to institution from Ambrx, Amgen, AstraZeneca, Arvinas,
+Bayer, Cytomx, Daiichi Sankyo, Dignitana, Genentech/
+Roche, Gilead, GSK, Immunomedics, Eli Eli Lilly, Macro-
+genics, Novartis, Pﬁzer, OBI Pharma, Pieris, PUMA Bio-
+technologies,
+Radius,
+Sanoﬁ,
+Seattle
+Genetics/SeaGen,
+Zymeworks, Phoenix Molecular Designs, Ltd. and Samumed;
+unpaid steering committee member for Novartis, Eli Lilly,
+Daiichi Sankyo/AstraZeneca, Genentech/Roche and Sanoﬁ;
+travel expenses from Eli Lilly (2019); and uncompensated
+consulting/advisory boards for 4DPharma, Ambrx, Amgen,
+Artios, Arvinas, Daiichi Sankyo, Dantari, Genentech/Roche,
+Immunomedics, Macrogenics, Eli Eli Lilly, Novartis, NK Max,
+Pieris, Pyxis, SeaGen, Biotheranostics and Loxo. SAI reports
+advisory board participation (uncompensated) for Amgen,
+AstraZeneca, Daiichi Sankyo, Eisai, GSK, Hanmi, Eli Lilly,
+MSD, Novartis, Pﬁzer and Roche; and receipt of research
+funding/clinical trial budget from AstraZeneca, Dae Woong,
+Daiichi Sankyo, Eisai, Hanmi, Pﬁzer and Roche. DK reports
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1491
+
+(uncompensated), Change Healthcare, Daiichi Sankyo (un-
+compensated), Epic Sciences (uncompensated), Merck (un-
+compensated),
+Pﬁzer
+(uncompensated)
+and
+Zenith
+Pharmaceuticals (uncompensated); research funding to
+institute from AstraZeneca, Merck and Pﬁzer; and editorial
+services for AstraZeneca and Pﬁzer. HSR reports research
+support for clinical trials through the University of California
+from Pﬁzer, Merck, Novartis, Eli Lilly, Roche, Daiichi Sankyo,
+Seattle
+Genetics,
+Macrogenics,
+Sermonix,
+Boehringer
+Ingelheim, Polyphor, AstraZeneca, Ayala and Gilead; and
+honoraria from PUMA Biotechnologies (grant reviews for
+the US National Comprehensive Cancer Network 2021,
+steering committee 2020), Mylan (educational talk 2019),
+Samsung (educational talk and consultant 2019) and Napo
+Pharmaceuticals, Inc (consultant). CFS reports institutional
+research funding from Amgen, AstraZeneca, Daiichi Sanyko
+and the US Department of Defence; and travel funding
+and speaker honoraria from Novartis, AstraZeneca, Roche
+and Amgen. PS reports honoraria for participation in advi-
+sory boards and satellite symposia from AstraZeneca, Bayer,
+Boehringer Ingelheim, Merck, Novartis, Pﬁzer, PUMA Bio-
+technologies, Roche, Eisai and Celgene; research funding to
+institute from Astellas, AstraZeneca, Genentech, Novartis,
+Oncogenex, Roche and Medivation. CS has served as
+consultant, participated in advisory boards or received
+travel grants from AstraZeneca, Byondis B.V., Daiichi Sankyo,
+Eisai, Exact Sciences, Exeter Pharma, Roche, MediTech,
+MSD, Novartis, Pﬁzer, Philips, Pierre Fabre, PintPharma,
+PUMA Biotechnologies, Sanoﬁ-Aventis, SeaGen and Zyme-
+works. TS reports receipt of honoraria for advisory board
+participation for Roche and Pﬁzer. SMT reports receipt of
+institutional research funding from AstraZeneca, Eli Lilly,
+Merck, Nektar, Novartis, Pﬁzer, Genentech/Roche, Immu-
+nomedics/Gilead, Exelixis, BMS, Eisai, Nanostring, Cyclacel,
+Odonate and Seattle Genetics; and has served as an
+advisor/consultant (compensated) for AstraZeneca, Eli Lilly,
+Merck,
+Nektar,
+Novartis,
+Pﬁzer,
+Genentech/Roche,
+Immunomedics/Gilead,
+BMS,
+Eisai,
+Nanostring,
+PUMA
+Biotechnologies,
+Sanoﬁ,
+Silverback
+Therapeutics,
+G1
+Therapeutics,
+Athenex,
+OncoPep,
+Kyowa
+Kirin
+Pharmaceuticals,
+Daiichi
+Sankyo,
+Ellipsis,
+Inﬁnity,
+4D
+Pharma, Samsung Bioepsis Inc., Chugai Pharmaceuticals,
+BeyondSpring Pharmaceuticals, OncXerna, OncoSec Medical
+Incorporated, Certara, Mersana Therapeutics, CytomX and
+Seattle Genetics. NCT reports receipt of advisory board
+honoraria from AstraZeneca, BMS, Eli Lilly, MSD, Novartis,
+Pﬁzer, Roche/Genentech, GSK, Zentalis Pharmaceuticals,
+Repare Therapeutics and Arvinas; and research funding
+from AstraZeneca, BioRad, Pﬁzer, Roche/Genentech, MSD,
+Guardant Health, Invitae, Inivata, Personalis and Natera.
+
+REFERENCES
+
+1. Gao JJ, Cheng J, Bloomquist E, et al. CDK4/6 inhibitor treatment for
+patients with hormone receptor-positive, HER2-negative, advanced or
+metastatic breast cancer: a US Food and Drug Administration pooled
+analysis. Lancet Oncol. 2020;21(2):250-260.
+2. Schmid P, Adams S, Rugo HS, et al. Atezolizumab and nab-paclitaxel in
+advanced triple-negative breast cancer. N Engl J Med. 2018;379(22):
+2108-2121.
+
+Annals of Oncology
+A. Gennari et al.
+
+1492
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+22. Fourney DR, Frangou EM, Ryken TC, et al. Spinal instability neoplastic
+score: an analysis of reliability and validity from the spine oncology
+study group. J Clin Oncol. 2011;29(22):3072-3077.
+23. Komorowski AS, Warner E, MacKay HJ, et al. Incidence of brain me-
+tastases in nonmetastatic and metastatic breast cancer: is there a role
+for ccreening? Clin Breast Cancer. 2020;20(1):e54-e64.
+24. Cardoso F, Costa A, Norton L, et al. ESO-ESMO 2nd international
+consensus guidelines for advanced breast cancer (ABC2). Breast.
+2014;23(5):489-502.
+25. Finn RS, Martin M, Rugo HS, et al. Palbociclib and letrozole in advanced
+breast cancer. N Engl J Med. 2016;375(20):1925-1936.
+26. Hortobagyi GN, Stemmer SM, Burris HA, et al. Ribociclib as ﬁrst-line
+therapy for HR-positive, advanced breast cancer. N Engl J Med.
+2016;375(18):1738-1748.
+27. Im SA, Lu YS, Bardia A, et al. Overall survival with ribociclib plus endo-
+crine therapy in breast cancer. N Engl J Med. 2019;381(4):307-316.
+28. Slamon DJ, Neven P, Chia S, et al. Overall survival with ribociclib plus
+fulvestrant in advanced breast cancer. N Engl J Med. 2020;382(6):514-
+524.
+29. Tripathy D, Im SA, Colleoni M, et al. Ribociclib plus endocrine therapy
+for premenopausal women with hormone-receptor-positive, advanced
+breast cancer (MONALEESA-7): a randomised phase 3 trial. Lancet
+Oncol. 2018;19(7):904-915.
+30. Goetz MP, Toi M, Campone M, et al. MONARCH 3: abemaciclib as initial
+therapy for advanced breast cancer. J Clin Oncol. 2017;35(32):3638-
+3646.
+31. Hortobagyi GN, Stemmer SM, III HAB, et al. LBA17_PRdoverall survival
+(OS) results from the phase III MONALEESA-2 (ML-2) trial of post-
+menopausal patients (pts) with hormone receptor positive/human
+epidermal growth factor receptor 2 negative (HRþ/HER2) advanced
+breast cancer (ABC) treated with endocrine therapy (ET)  ribociclib
+(RIB). Ann Oncol. 2021;32(suppl 5):S1283-S1346.
+32. Martin M, Zielinski C, Ruiz-Borrego M, et al. Palbociclib in combination
+with endocrine therapy versus capecitabine in hormonal receptor-
+positive, human epidermal growth factor 2-negative, aromatase
+inhibitor-resistant metastatic breast cancer: a phase III randomised
+controlled trial-PEARL. Ann Oncol. 2021;32(4):488-499.
+33. Park YH, Kim TY, Kim GM, et al. Palbociclib plus exemestane with
+gonadotropin-releasing hormone agonist versus capecitabine in
+premenopausal women with hormone receptor-positive, HER2-
+negative metastatic breast cancer (KCSG-BR15-10): a multicentre,
+open-label, randomised, phase 2 trial. Lancet Oncol. 2019;20(12):
+1750-1759.
+34. Llombart-Cussac A, Pérez-García JM, Bellet M, et al. PARSIFAL: a ran-
+domized, multicenter, open-label, phase II trial to evaluate palbociclib
+in combination with fulvestrant or letrozole in endocrine-sensitive
+patients with estrogen receptor (ER)[þ]/HER2[-] metastatic breast
+cancer. J Clin Oncol. 2020;38(15_suppl):1007.
+35. Dickler MN, Tolaney SM, Rugo HS, et al. MONARCH 1, a phase II study
+of abemaciclib, a CDK4 and CDK6 inhibitor, as a single agent, in pa-
+tients with refractory HR(þ)/HER2(-) metastatic breast cancer. Clin
+Cancer Res. 2017;23(17):5218-5224.
+36. André F, Ciruelos E, Rubovszky G, et al. Alpelisib for PIK3CA-mutated,
+hormone receptor-positive advanced breast cancer. N Engl J Med.
+2019;380(20):1929-1940.
+37. André F, Ciruelos EM, Juric D, et al. Alpelisib plus fulvestrant for
+PIK3CA-mutated, hormone receptor-positive, human epidermal growth
+factor receptor-2-negative advanced breast cancer: ﬁnal overall sur-
+vival results from SOLAR-1. Ann Oncol. 2021;32(2):208-217.
+38. Rugo HS, Lerebours F, Ciruelos E, et al. Alpelisib plus fulvestrant in
+PIK3CA-mutated, hormone receptor-positive advanced breast cancer
+after a CDK4/6 inhibitor (BYLieve): one cohort of a phase 2, multi-
+centre, open-label, non-comparative study. Lancet Oncol. 2021;22(4):
+489-498.
+39. Baselga J, Campone M, Piccart M, et al. Everolimus in postmenopausal
+hormone-receptor-positive advanced breast cancer. N Engl J Med.
+2012;366(6):520-529.
+40. Piccart M, Hortobagyi GN, Campone M, et al. Everolimus plus
+exemestane for hormone-receptor-positive, human epidermal growth
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1493
+
+57. Johnston S, Pippen J Jr, Pivot X, et al. Lapatinib combined with letrozole
+versus letrozole and placebo as ﬁrst-line therapy for postmenopausal
+hormone receptor-positive metastatic breast cancer. J Clin Oncol.
+2009;27(33):5538-5546.
+58. Cortés J, Fumoleau P, Bianchi GV, et al. Pertuzumab monotherapy after
+trastuzumab-based treatment and subsequent reintroduction of tras-
+tuzumab: activity and tolerability in patients with advanced human
+epidermal growth factor receptor 2-positive breast cancer. J Clin Oncol.
+2012;30(14):1594-1600.
+59. Krop IE, Kim SB, Gonzalez-Martin A, et al. Trastuzumab emtansine
+versus treatment of physician’s choice for pretreated HER2-positive
+advanced breast cancer (TH3RESA): a randomised, open-label, phase
+3 trial. Lancet Oncol. 2014;15(7):689-699.
+60. Cortés J, Kim S, Chung W, et al. LBA1dtrastuzumab deruxtecan
+(T-DXd) vs trastuzumab emtansine (T-DM1) in patients (Pts) with
+HER2þ metastatic breast cancer (mBC): results of the randomized
+phase III DESTINY-Breast03 study. Ann Oncol. 2021;32(suppl_5):
+S1283-S1346.
+61. Lin NU, Borges V, Anders C, et al. Intracranial efﬁcacy and survival with
+tucatinib plus trastuzumab and capecitabine for previously treated
+HER2-positive breast cancer with brain metastases in the HER2CLIMB
+trial. J Clin Oncol. 2020;38(23):2610-2619.
+62. Murthy R, Borges VF, Conlin A, et al. Tucatinib with capecitabine and
+trastuzumab in advanced HER2-positive metastatic breast cancer with
+and without brain metastases: a non-randomised, open-label, phase 1b
+study. Lancet Oncol. 2018;19(7):880-888.
+63. Modi S, Saura C, Yamashita T, et al. Trastuzumab deruxtecan in previ-
+ously treated HER2-positive breast cancer. N Engl J Med. 2020;382(7):
+610-621.
+64. Modi S, Saura C, Yamashita T, et al. PD3-06. Updated results from
+DESTINY-breast01, a phase 2 trial of trastuzumab deruxtecan (T-DXd) in
+HER2 positive metastatic breast cancer. Presented at the San Antonio
+Breast Cancer Symposium, December 8-11 2020. Virtual Meeting.
+65. Blackwell KL, Burstein HJ, Storniolo AM, et al. Randomized study of
+Lapatinib alone or in combination with trastuzumab in women with
+ErbB2-positive, trastuzumab-refractory metastatic breast cancer. J Clin
+Oncol. 2010;28(7):1124-1130.
+66. Saura C, Oliveira M, Feng YH, et al. Neratinib plus capecitabine versus
+Lapatinib plus capecitabine in HER2-positive metastatic breast cancer
+previously treated with 2 HER2-directed regimens: phase III NALA
+trial. J Clin Oncol. 2020;38(27):3138-3149.
+67. Rugo HS, Im SA, Cardoso F, et al. Efﬁcacy of margetuximab vs trastu-
+zumab in patients with pretreated ERBB2-positive advanced breast
+cancer: a phase 3 randomized clinical trial. JAMA Oncol. 2021;7(4):573-
+584.
+68. Foulkes WD, Smith IE, Reis-Filho JS. Triple-negative breast cancer.
+N Engl J Med. 2010;363(20):1938-1948.
+69. Cortes J, Cescon DW, Rugo HS, et al. Pembrolizumab plus chemo-
+therapy versus placebo plus chemotherapy for previously untreated
+locally recurrent inoperable or metastatic triple-negative breast cancer
+(KEYNOTE-355): a randomised, placebo-controlled, double-blind, phase
+3 clinical trial. Lancet. 2020;396(10265):1817-1828.
+70. Schmid P, Rugo HS, Adams S, et al. Atezolizumab plus nab-paclitaxel as
+ﬁrst-line treatment for unresectable, locally advanced or metastatic
+triple-negative breast cancer (IMpassion130): updated efﬁcacy results
+from a randomised, double-blind, placebo-controlled, phase 3 trial.
+Lancet Oncol. 2020;21(1):44-59.
+71. Miles D, Gligorov J, André F, et al. Primary results from IMpassion131,
+a double-blind, placebo-controlled, randomised phase III trial of ﬁrst-
+line paclitaxel with or without atezolizumab for unresectable locally
+advanced/metastatic
+triple-negative
+breast
+cancer.
+Ann
+Oncol.
+2021;32(8):994-1004.
+72. Rugo HS, Cortés J, Cescon DW, et al. LBA16dKEYNOTE-355: ﬁnal re-
+sults from a randomized, double-blind phase III study of ﬁrst-line
+pembrolizumab þ chemotherapy vs placebo þ chemotherapy for
+metastatic TNBC. Ann Oncol. 2021;32(suppl_5):S1283-S1346.
+73. Tutt A, Tovey H, Cheang MCU, et al. Carboplatin in BRCA1/2-mutated
+and triple-negative breast cancer BRCAness subgroups: the TNT Trial.
+Nat Med. 2018;24(5):628-637.
+
+Annals of Oncology
+A. Gennari et al.
+
+1494
+https://doi.org/10.1016/j.annonc.2021.09.019
+Volume 32
+- Issue 12
+- 2021
+
+92. Caswell-Jin JL, Plevritis SK, Tian L, et al. Change in survival in metastatic
+breast cancer with treatment advances: meta-analysis and systematic
+review. JNCI Cancer Spectr. 2018;2(4):pky062.
+93. Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+
+A. Gennari et al.
+Annals of Oncology
+
+Volume 32
+- Issue 12
+- 2021
+https://doi.org/10.1016/j.annonc.2021.09.019
+1495
+
